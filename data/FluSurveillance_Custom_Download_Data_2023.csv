@@ -1,0 +1,1405 @@
+"Influenza Hospitalization Rates (per 100,000 population) for the FluSurv-NET Network (downloaded on "Jul-18-2023)
+Influenza Division - Centers for Disease Control and Prevention.
+CATCHMENT,NETWORK,YEAR,MMWR-YEAR,MMWR-WEEK,AGE CATEGORY,SEX CATEGORY,RACE CATEGORY,CUMULATIVE RATE,WEEKLY RATE 
+Entire Network,EIP,2022-23,2022,40,Overall,Overall,White,0.3,0.3
+Entire Network,EIP,2022-23,2022,40,Overall,Overall,Black,1.3,1.3
+Entire Network,EIP,2022-23,2022,40,Overall,Overall,Hispanic/Latino,0.3,0.3
+Entire Network,EIP,2022-23,2022,40,Overall,Female,Overall,0.5,0.5
+Entire Network,EIP,2022-23,2022,40,Overall,Overall,Asian/Pacific Islander,0.2,0.2
+Entire Network,EIP,2022-23,2022,40,Overall,Overall,American Indian/Alaska Native,0,0
+Entire Network,EIP,2022-23,2022,40,Overall,Male,Overall,0.5,0.5
+Entire Network,EIP,2022-23,2022,40,Overall,Overall,Overall,0.5,0.5
+Entire Network,FluSurv-NET,2022-23,2022,40,Overall,Overall,White,0.3,0.3
+Entire Network,FluSurv-NET,2022-23,2022,40,Overall,Overall,Black,1.1,1.1
+Entire Network,FluSurv-NET,2022-23,2022,40,Overall,Overall,Hispanic/Latino,0.3,0.3
+Entire Network,FluSurv-NET,2022-23,2022,40,Overall,Overall,Asian/Pacific Islander,0.2,0.2
+Entire Network,FluSurv-NET,2022-23,2022,40,Overall,Female,Overall,0.4,0.4
+Entire Network,FluSurv-NET,2022-23,2022,40,Overall,Overall,American Indian/Alaska Native,0,0
+Entire Network,FluSurv-NET,2022-23,2022,40,Overall,Male,Overall,0.4,0.4
+Entire Network,FluSurv-NET,2022-23,2022,40,Overall,Overall,Overall,0.4,0.4
+Entire Network,EIP,2022-23,2022,41,Overall,Overall,White,0.6,0.3
+Entire Network,EIP,2022-23,2022,41,Overall,Overall,Black,3.2,2
+Entire Network,EIP,2022-23,2022,41,Overall,Overall,Hispanic/Latino,0.8,0.4
+Entire Network,EIP,2022-23,2022,41,Overall,Overall,Asian/Pacific Islander,0.3,0.2
+Entire Network,EIP,2022-23,2022,41,Overall,Overall,American Indian/Alaska Native,0,0
+Entire Network,EIP,2022-23,2022,41,Overall,Male,Overall,1,0.5
+Entire Network,EIP,2022-23,2022,41,Overall,Female,Overall,1.2,0.8
+Entire Network,EIP,2022-23,2022,41,Overall,Overall,Overall,1.1,0.6
+Entire Network,FluSurv-NET,2022-23,2022,41,Overall,Overall,White,0.6,0.3
+Entire Network,FluSurv-NET,2022-23,2022,41,Overall,Overall,Black,2.9,1.8
+Entire Network,FluSurv-NET,2022-23,2022,41,Overall,Overall,Hispanic/Latino,0.7,0.4
+Entire Network,FluSurv-NET,2022-23,2022,41,Overall,Overall,Asian/Pacific Islander,0.4,0.2
+Entire Network,FluSurv-NET,2022-23,2022,41,Overall,Overall,American Indian/Alaska Native,0,0
+Entire Network,FluSurv-NET,2022-23,2022,41,Overall,Male,Overall,0.9,0.5
+Entire Network,FluSurv-NET,2022-23,2022,41,Overall,Female,Overall,1.1,0.7
+Entire Network,FluSurv-NET,2022-23,2022,41,Overall,Overall,Overall,1,0.6
+Entire Network,FluSurv-NET,2022-23,2022,42,Overall,Overall,Overall,1.9,1
+Entire Network,FluSurv-NET,2022-23,2022,42,Overall,Male,Overall,1.9,1
+Entire Network,FluSurv-NET,2022-23,2022,42,Overall,Female,Overall,2,0.9
+Entire Network,EIP,2022-23,2022,42,Overall,Overall,Black,6,2.7
+Entire Network,EIP,2022-23,2022,42,Overall,Overall,White,1.3,0.7
+Entire Network,EIP,2022-23,2022,42,Overall,Overall,Hispanic/Latino,1.4,0.6
+Entire Network,EIP,2022-23,2022,42,Overall,Overall,Asian/Pacific Islander,0.6,0.3
+Entire Network,EIP,2022-23,2022,42,Overall,Overall,American Indian/Alaska Native,1.6,1.6
+Entire Network,EIP,2022-23,2022,42,Overall,Female,Overall,2.3,1
+Entire Network,EIP,2022-23,2022,42,Overall,Male,Overall,2.1,1.1
+Entire Network,EIP,2022-23,2022,42,Overall,Overall,Overall,2.2,1.1
+Entire Network,FluSurv-NET,2022-23,2022,42,Overall,Overall,White,1.2,0.7
+Entire Network,FluSurv-NET,2022-23,2022,42,Overall,Overall,Black,5.4,2.5
+Entire Network,FluSurv-NET,2022-23,2022,42,Overall,Overall,Hispanic/Latino,1.3,0.6
+Entire Network,FluSurv-NET,2022-23,2022,42,Overall,Overall,Asian/Pacific Islander,0.6,0.3
+Entire Network,FluSurv-NET,2022-23,2022,42,Overall,Overall,American Indian/Alaska Native,1.5,1.5
+Entire Network,EIP,2022-23,2022,43,Overall,Overall,White,2.5,1.2
+Entire Network,EIP,2022-23,2022,43,Overall,Overall,Black,11.4,5.4
+Entire Network,EIP,2022-23,2022,43,Overall,Overall,Hispanic/Latino,2.6,1.2
+Entire Network,EIP,2022-23,2022,43,Overall,Overall,Asian/Pacific Islander,1.5,0.9
+Entire Network,EIP,2022-23,2022,43,Overall,Overall,American Indian/Alaska Native,1.6,0
+Entire Network,EIP,2022-23,2022,43,Overall,Male,Overall,3.7,1.6
+Entire Network,EIP,2022-23,2022,43,Overall,Female,Overall,4.5,2.3
+Entire Network,EIP,2022-23,2022,43,Overall,Overall,Overall,4.1,1.9
+Entire Network,FluSurv-NET,2022-23,2022,43,Overall,Overall,White,2.3,1.1
+Entire Network,FluSurv-NET,2022-23,2022,43,Overall,Female,Overall,4.1,2.1
+Entire Network,FluSurv-NET,2022-23,2022,43,Overall,Overall,Black,10.4,5
+Entire Network,FluSurv-NET,2022-23,2022,43,Overall,Overall,Hispanic/Latino,2.4,1.1
+Entire Network,FluSurv-NET,2022-23,2022,43,Overall,Overall,Asian/Pacific Islander,1.5,0.9
+Entire Network,FluSurv-NET,2022-23,2022,43,Overall,Overall,American Indian/Alaska Native,1.5,0
+Entire Network,FluSurv-NET,2022-23,2022,43,Overall,Overall,Overall,3.7,1.8
+Entire Network,FluSurv-NET,2022-23,2022,43,Overall,Male,Overall,3.3,1.4
+Entire Network,EIP,2022-23,2022,44,Overall,Overall,Overall,6.8,2.7
+Entire Network,FluSurv-NET,2022-23,2022,44,Overall,Overall,White,4,1.8
+Entire Network,FluSurv-NET,2022-23,2022,44,Overall,Overall,Black,16.4,6
+Entire Network,FluSurv-NET,2022-23,2022,44,Overall,Overall,Hispanic/Latino,4.1,1.7
+Entire Network,FluSurv-NET,2022-23,2022,44,Overall,Overall,Asian/Pacific Islander,2.4,0.8
+Entire Network,FluSurv-NET,2022-23,2022,44,Overall,Overall,American Indian/Alaska Native,3.9,2.5
+Entire Network,FluSurv-NET,2022-23,2022,44,Overall,Female,Overall,6.8,2.7
+Entire Network,FluSurv-NET,2022-23,2022,44,Overall,Overall,Overall,6.2,2.5
+Entire Network,FluSurv-NET,2022-23,2022,44,Overall,Male,Overall,5.6,2.3
+Entire Network,EIP,2022-23,2022,44,Overall,Overall,White,4.4,1.9
+Entire Network,EIP,2022-23,2022,44,Overall,Overall,Black,17.9,6.5
+Entire Network,EIP,2022-23,2022,44,Overall,Overall,Hispanic/Latino,4.3,1.7
+Entire Network,EIP,2022-23,2022,44,Overall,Overall,Asian/Pacific Islander,2.5,0.9
+Entire Network,EIP,2022-23,2022,44,Overall,Overall,American Indian/Alaska Native,4.4,2.7
+Entire Network,EIP,2022-23,2022,44,Overall,Male,Overall,6.2,2.5
+Entire Network,EIP,2022-23,2022,44,Overall,Female,Overall,7.4,2.9
+Entire Network,EIP,2022-23,2022,45,Overall,Female,Overall,11.4,4
+Entire Network,EIP,2022-23,2022,45,Overall,Male,Overall,9.4,3.1
+Entire Network,EIP,2022-23,2022,45,Overall,Overall,American Indian/Alaska Native,8.2,3.8
+Entire Network,EIP,2022-23,2022,45,Overall,Overall,Asian/Pacific Islander,3.9,1.5
+Entire Network,EIP,2022-23,2022,45,Overall,Overall,Hispanic/Latino,7.2,2.9
+Entire Network,EIP,2022-23,2022,45,Overall,Overall,Black,25.1,7.1
+Entire Network,EIP,2022-23,2022,45,Overall,Overall,White,7,2.6
+Entire Network,FluSurv-NET,2022-23,2022,45,Overall,Overall,Overall,9.4,3.2
+Entire Network,FluSurv-NET,2022-23,2022,45,Overall,Female,Overall,10.3,3.6
+Entire Network,EIP,2022-23,2022,45,Overall,Overall,Overall,10.4,3.6
+Entire Network,FluSurv-NET,2022-23,2022,45,Overall,Male,Overall,8.5,2.9
+Entire Network,FluSurv-NET,2022-23,2022,45,Overall,Overall,American Indian/Alaska Native,7.4,3.4
+Entire Network,FluSurv-NET,2022-23,2022,45,Overall,Overall,Asian/Pacific Islander,3.8,1.4
+Entire Network,FluSurv-NET,2022-23,2022,45,Overall,Overall,Hispanic/Latino,6.7,2.6
+Entire Network,FluSurv-NET,2022-23,2022,45,Overall,Overall,Black,23,6.6
+Entire Network,FluSurv-NET,2022-23,2022,45,Overall,Overall,White,6.3,2.3
+Entire Network,FluSurv-NET,2022-23,2022,46,Overall,Overall,Overall,13.3,3.9
+Entire Network,EIP,2022-23,2022,46,Overall,Overall,Overall,14.6,4.2
+Entire Network,FluSurv-NET,2022-23,2022,46,Overall,Overall,White,9.3,3
+Entire Network,FluSurv-NET,2022-23,2022,46,Overall,Overall,Black,29.8,6.8
+Entire Network,FluSurv-NET,2022-23,2022,46,Overall,Overall,Hispanic/Latino,9.8,3.1
+Entire Network,FluSurv-NET,2022-23,2022,46,Overall,Overall,Asian/Pacific Islander,6,2.2
+Entire Network,FluSurv-NET,2022-23,2022,46,Overall,Overall,American Indian/Alaska Native,15.3,7.9
+Entire Network,FluSurv-NET,2022-23,2022,46,Overall,Male,Overall,12.3,3.9
+Entire Network,FluSurv-NET,2022-23,2022,46,Overall,Female,Overall,14.3,4
+Entire Network,EIP,2022-23,2022,46,Overall,Overall,White,10.2,3.2
+Entire Network,EIP,2022-23,2022,46,Overall,Overall,Black,32.2,7.1
+Entire Network,EIP,2022-23,2022,46,Overall,Overall,Hispanic/Latino,10.4,3.2
+Entire Network,EIP,2022-23,2022,46,Overall,Overall,Asian/Pacific Islander,6.1,2.1
+Entire Network,EIP,2022-23,2022,46,Overall,Overall,American Indian/Alaska Native,16.5,8.2
+Entire Network,EIP,2022-23,2022,46,Overall,Male,Overall,13.5,4.2
+Entire Network,EIP,2022-23,2022,46,Overall,Female,Overall,15.6,4.2
+Entire Network,FluSurv-NET,2022-23,2022,47,Overall,Overall,White,15.3,6
+Entire Network,EIP,2022-23,2022,47,Overall,Overall,Overall,21.9,7.3
+Entire Network,EIP,2022-23,2022,47,Overall,Female,Overall,23.8,8.2
+Entire Network,EIP,2022-23,2022,47,Overall,Male,Overall,20,6.4
+Entire Network,EIP,2022-23,2022,47,Overall,Overall,American Indian/Alaska Native,23.6,7.1
+Entire Network,EIP,2022-23,2022,47,Overall,Overall,Asian/Pacific Islander,9.4,3.3
+Entire Network,EIP,2022-23,2022,47,Overall,Overall,Hispanic/Latino,16.3,6
+Entire Network,EIP,2022-23,2022,47,Overall,Overall,Black,43.4,11.3
+Entire Network,EIP,2022-23,2022,47,Overall,Overall,White,16.6,6.4
+Entire Network,FluSurv-NET,2022-23,2022,47,Overall,Male,Overall,18.5,6.1
+Entire Network,FluSurv-NET,2022-23,2022,47,Overall,Overall,Overall,20.3,7
+Entire Network,FluSurv-NET,2022-23,2022,47,Overall,Overall,American Indian/Alaska Native,22.6,7.4
+Entire Network,FluSurv-NET,2022-23,2022,47,Overall,Overall,Asian/Pacific Islander,9.3,3.3
+Entire Network,FluSurv-NET,2022-23,2022,47,Overall,Overall,Hispanic/Latino,15.5,5.7
+Entire Network,FluSurv-NET,2022-23,2022,47,Overall,Overall,Black,40.9,11.1
+Entire Network,FluSurv-NET,2022-23,2022,47,Overall,Female,Overall,22.1,7.8
+Entire Network,FluSurv-NET,2022-23,2022,48,Overall,Overall,Overall,29,8.7
+Entire Network,EIP,2022-23,2022,48,Overall,Overall,American Indian/Alaska Native,37.9,14.3
+Entire Network,EIP,2022-23,2022,48,Overall,Overall,White,25,8.4
+Entire Network,EIP,2022-23,2022,48,Overall,Overall,Black,54.7,11.3
+Entire Network,EIP,2022-23,2022,48,Overall,Overall,Hispanic/Latino,24.9,8.6
+Entire Network,EIP,2022-23,2022,48,Overall,Overall,Asian/Pacific Islander,13.1,3.7
+Entire Network,EIP,2022-23,2022,48,Overall,Female,Overall,33.6,9.9
+Entire Network,EIP,2022-23,2022,48,Overall,Male,Overall,28,8
+Entire Network,EIP,2022-23,2022,48,Overall,Overall,Overall,30.9,9
+Entire Network,FluSurv-NET,2022-23,2022,48,Overall,Overall,White,23.4,8
+Entire Network,FluSurv-NET,2022-23,2022,48,Overall,Overall,Black,52.3,11.4
+Entire Network,FluSurv-NET,2022-23,2022,48,Overall,Overall,Hispanic/Latino,23.8,8.3
+Entire Network,FluSurv-NET,2022-23,2022,48,Overall,Overall,Asian/Pacific Islander,13.2,3.9
+Entire Network,FluSurv-NET,2022-23,2022,48,Overall,Overall,American Indian/Alaska Native,36.4,13.8
+Entire Network,FluSurv-NET,2022-23,2022,48,Overall,Male,Overall,26.3,7.9
+Entire Network,FluSurv-NET,2022-23,2022,48,Overall,Female,Overall,31.6,9.5
+Entire Network,EIP,2022-23,2022,49,Overall,Overall,White,31.9,6.9
+Entire Network,EIP,2022-23,2022,49,Overall,Overall,Hispanic/Latino,33.1,8.2
+Entire Network,EIP,2022-23,2022,49,Overall,Overall,Black,63.6,8.9
+Entire Network,EIP,2022-23,2022,49,Overall,Female,Overall,41.7,8
+Entire Network,FluSurv-NET,2022-23,2022,49,Overall,Female,Overall,39.6,8
+Entire Network,FluSurv-NET,2022-23,2022,49,Overall,Overall,Asian/Pacific Islander,16.6,3.5
+Entire Network,FluSurv-NET,2022-23,2022,49,Overall,Overall,Hispanic/Latino,31.9,8
+Entire Network,FluSurv-NET,2022-23,2022,49,Overall,Overall,Black,61.5,9.1
+Entire Network,FluSurv-NET,2022-23,2022,49,Overall,Overall,White,30.1,6.7
+Entire Network,EIP,2022-23,2022,49,Overall,Overall,Overall,38.4,7.5
+Entire Network,EIP,2022-23,2022,49,Overall,Male,Overall,34.9,6.9
+Entire Network,EIP,2022-23,2022,49,Overall,Overall,American Indian/Alaska Native,48.9,11
+Entire Network,EIP,2022-23,2022,49,Overall,Overall,Asian/Pacific Islander,16.4,3.4
+Entire Network,FluSurv-NET,2022-23,2022,49,Overall,Overall,Overall,36.3,7.3
+Entire Network,FluSurv-NET,2022-23,2022,49,Overall,Male,Overall,33,6.7
+Entire Network,FluSurv-NET,2022-23,2022,49,Overall,Overall,American Indian/Alaska Native,46.2,9.8
+Entire Network,EIP,2022-23,2022,50,Overall,Overall,White,38,6.1
+Entire Network,EIP,2022-23,2022,50,Overall,Overall,Black,69.6,5.9
+Entire Network,FluSurv-NET,2022-23,2022,50,Overall,Overall,American Indian/Alaska Native,54.6,8.4
+Entire Network,FluSurv-NET,2022-23,2022,50,Overall,Overall,Asian/Pacific Islander,19.5,2.9
+Entire Network,FluSurv-NET,2022-23,2022,50,Overall,Overall,Hispanic/Latino,38.6,6.8
+Entire Network,FluSurv-NET,2022-23,2022,50,Overall,Overall,Black,68,6.6
+Entire Network,FluSurv-NET,2022-23,2022,50,Overall,Overall,White,36.3,6.2
+Entire Network,EIP,2022-23,2022,50,Overall,Overall,Overall,44.6,6.2
+Entire Network,EIP,2022-23,2022,50,Overall,Male,Overall,40.7,5.8
+Entire Network,EIP,2022-23,2022,50,Overall,Female,Overall,48.3,6.6
+Entire Network,EIP,2022-23,2022,50,Overall,Overall,American Indian/Alaska Native,57.7,8.8
+Entire Network,EIP,2022-23,2022,50,Overall,Overall,Asian/Pacific Islander,19.3,2.8
+Entire Network,EIP,2022-23,2022,50,Overall,Overall,Hispanic/Latino,40.1,7
+Entire Network,FluSurv-NET,2022-23,2022,50,Overall,Overall,Overall,42.7,6.4
+Entire Network,FluSurv-NET,2022-23,2022,50,Overall,Female,Overall,46.4,6.9
+Entire Network,FluSurv-NET,2022-23,2022,50,Overall,Male,Overall,38.9,5.9
+Entire Network,EIP,2022-23,2022,51,Overall,Overall,Overall,49.9,5.3
+Entire Network,FluSurv-NET,2022-23,2022,51,Overall,Overall,White,41.9,5.6
+Entire Network,FluSurv-NET,2022-23,2022,51,Overall,Overall,Black,73.7,5.6
+Entire Network,FluSurv-NET,2022-23,2022,51,Overall,Overall,Hispanic/Latino,44.7,6.1
+Entire Network,FluSurv-NET,2022-23,2022,51,Overall,Overall,Asian/Pacific Islander,22,2.5
+Entire Network,FluSurv-NET,2022-23,2022,51,Overall,Overall,American Indian/Alaska Native,64,9.3
+Entire Network,FluSurv-NET,2022-23,2022,51,Overall,Male,Overall,44.5,5.6
+Entire Network,FluSurv-NET,2022-23,2022,51,Overall,Female,Overall,52.1,5.7
+Entire Network,EIP,2022-23,2022,51,Overall,Overall,White,43.2,5.2
+Entire Network,EIP,2022-23,2022,51,Overall,Overall,Black,74.6,5
+Entire Network,EIP,2022-23,2022,51,Overall,Overall,Hispanic/Latino,46.3,6.2
+Entire Network,EIP,2022-23,2022,51,Overall,Overall,Asian/Pacific Islander,21.3,2
+Entire Network,EIP,2022-23,2022,51,Overall,Overall,American Indian/Alaska Native,67.6,9.9
+Entire Network,EIP,2022-23,2022,51,Overall,Male,Overall,46,5.3
+Entire Network,EIP,2022-23,2022,51,Overall,Female,Overall,53.6,5.3
+Entire Network,FluSurv-NET,2022-23,2022,51,Overall,Overall,Overall,48.4,5.6
+Entire Network,FluSurv-NET,2022-23,2022,52,Overall,Male,Overall,49.4,4.9
+Entire Network,FluSurv-NET,2022-23,2022,52,Overall,Overall,Overall,53.5,5.2
+Entire Network,FluSurv-NET,2022-23,2022,52,Overall,Female,Overall,57.5,5.4
+Entire Network,FluSurv-NET,2022-23,2022,52,Overall,Overall,American Indian/Alaska Native,72.8,8.9
+Entire Network,FluSurv-NET,2022-23,2022,52,Overall,Overall,Asian/Pacific Islander,24.3,2.3
+Entire Network,FluSurv-NET,2022-23,2022,52,Overall,Overall,Hispanic/Latino,49.4,4.8
+Entire Network,FluSurv-NET,2022-23,2022,52,Overall,Overall,Black,78.5,4.8
+Entire Network,FluSurv-NET,2022-23,2022,52,Overall,Overall,White,47.2,5.3
+Entire Network,EIP,2022-23,2022,52,Overall,Overall,Overall,54.8,4.9
+Entire Network,EIP,2022-23,2022,52,Overall,Overall,Black,79.1,4.5
+Entire Network,EIP,2022-23,2022,52,Overall,Overall,White,48.3,5.1
+Entire Network,EIP,2022-23,2022,52,Overall,Female,Overall,58.7,5.1
+Entire Network,EIP,2022-23,2022,52,Overall,Male,Overall,50.8,4.8
+Entire Network,EIP,2022-23,2022,52,Overall,Overall,American Indian/Alaska Native,77.5,9.9
+Entire Network,EIP,2022-23,2022,52,Overall,Overall,Asian/Pacific Islander,23.7,2.4
+Entire Network,EIP,2022-23,2022,52,Overall,Overall,Hispanic/Latino,50.9,4.6
+Entire Network,EIP,2022-23,2023,1,Overall,Overall,White,51.3,3
+Entire Network,EIP,2022-23,2023,1,Overall,Overall,Black,81.6,2.5
+Entire Network,EIP,2022-23,2023,1,Overall,Overall,Hispanic/Latino,53.3,2.4
+Entire Network,EIP,2022-23,2023,1,Overall,Overall,Asian/Pacific Islander,25,1.3
+Entire Network,EIP,2022-23,2023,1,Overall,Overall,American Indian/Alaska Native,82.5,4.9
+Entire Network,EIP,2022-23,2023,1,Overall,Male,Overall,53.6,2.8
+Entire Network,EIP,2022-23,2023,1,Overall,Female,Overall,61.5,2.8
+Entire Network,EIP,2022-23,2023,1,Overall,Overall,Overall,57.7,2.8
+Entire Network,FluSurv-NET,2022-23,2023,1,Overall,Overall,White,50.3,3.1
+Entire Network,FluSurv-NET,2022-23,2023,1,Overall,Overall,Black,81.2,2.8
+Entire Network,FluSurv-NET,2022-23,2023,1,Overall,Overall,Hispanic/Latino,52,2.6
+Entire Network,FluSurv-NET,2022-23,2023,1,Overall,Overall,Asian/Pacific Islander,25.8,1.5
+Entire Network,FluSurv-NET,2022-23,2023,1,Overall,Overall,American Indian/Alaska Native,77.7,4.9
+Entire Network,FluSurv-NET,2022-23,2023,1,Overall,Male,Overall,52.3,2.9
+Entire Network,FluSurv-NET,2022-23,2023,1,Overall,Female,Overall,60.6,3.1
+Entire Network,FluSurv-NET,2022-23,2023,1,Overall,Overall,Overall,56.5,3
+Entire Network,EIP,2022-23,2023,2,Overall,Overall,Overall,58.9,1.3
+Entire Network,FluSurv-NET,2022-23,2023,2,Overall,Overall,White,51.6,1.3
+Entire Network,EIP,2022-23,2023,2,Overall,Overall,White,52.5,1.3
+Entire Network,EIP,2022-23,2023,2,Overall,Overall,Black,82.8,1.2
+Entire Network,EIP,2022-23,2023,2,Overall,Overall,Hispanic/Latino,54.7,1.4
+Entire Network,EIP,2022-23,2023,2,Overall,Overall,Asian/Pacific Islander,25.3,0.3
+Entire Network,EIP,2022-23,2023,2,Overall,Overall,American Indian/Alaska Native,84.7,2.2
+Entire Network,EIP,2022-23,2023,2,Overall,Male,Overall,54.9,1.3
+Entire Network,EIP,2022-23,2023,2,Overall,Female,Overall,62.8,1.2
+Entire Network,FluSurv-NET,2022-23,2023,2,Overall,Female,Overall,61.8,1.2
+Entire Network,FluSurv-NET,2022-23,2023,2,Overall,Overall,Black,82.5,1.2
+Entire Network,FluSurv-NET,2022-23,2023,2,Overall,Overall,Hispanic/Latino,53.5,1.4
+Entire Network,FluSurv-NET,2022-23,2023,2,Overall,Overall,Asian/Pacific Islander,26.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,2,Overall,Overall,American Indian/Alaska Native,80.2,2.5
+Entire Network,FluSurv-NET,2022-23,2023,2,Overall,Overall,Overall,57.8,1.3
+Entire Network,FluSurv-NET,2022-23,2023,2,Overall,Male,Overall,53.6,1.3
+Entire Network,FluSurv-NET,2022-23,2023,3,Overall,Male,Overall,54.4,0.8
+Entire Network,FluSurv-NET,2022-23,2023,3,Overall,Female,Overall,62.7,0.8
+Entire Network,FluSurv-NET,2022-23,2023,3,Overall,Overall,Overall,58.6,0.8
+Entire Network,FluSurv-NET,2022-23,2023,3,Overall,Overall,American Indian/Alaska Native,80.2,0
+Entire Network,EIP,2022-23,2023,3,Overall,Overall,White,53.3,0.8
+Entire Network,FluSurv-NET,2022-23,2023,3,Overall,Overall,Hispanic/Latino,54.1,0.6
+Entire Network,FluSurv-NET,2022-23,2023,3,Overall,Overall,Asian/Pacific Islander,26.5,0.3
+Entire Network,EIP,2022-23,2023,3,Overall,Male,Overall,55.6,0.7
+Entire Network,EIP,2022-23,2023,3,Overall,Overall,Overall,59.7,0.7
+Entire Network,FluSurv-NET,2022-23,2023,3,Overall,Overall,White,52.4,0.8
+Entire Network,FluSurv-NET,2022-23,2023,3,Overall,Overall,Black,83.5,1
+Entire Network,EIP,2022-23,2023,3,Overall,Overall,Black,83.7,0.9
+Entire Network,EIP,2022-23,2023,3,Overall,Overall,Hispanic/Latino,55.3,0.6
+Entire Network,EIP,2022-23,2023,3,Overall,Overall,Asian/Pacific Islander,25.6,0.3
+Entire Network,EIP,2022-23,2023,3,Overall,Overall,American Indian/Alaska Native,84.7,0
+Entire Network,EIP,2022-23,2023,3,Overall,Female,Overall,63.6,0.8
+Entire Network,EIP,2022-23,2023,4,Overall,Overall,American Indian/Alaska Native,84.7,0
+Entire Network,EIP,2022-23,2023,4,Overall,Male,Overall,56,0.4
+Entire Network,EIP,2022-23,2023,4,Overall,Overall,Black,84.2,0.5
+Entire Network,EIP,2022-23,2023,4,Overall,Overall,Hispanic/Latino,55.7,0.3
+Entire Network,EIP,2022-23,2023,4,Overall,Overall,Asian/Pacific Islander,25.8,0.2
+Entire Network,EIP,2022-23,2023,4,Overall,Overall,White,53.7,0.4
+Entire Network,EIP,2022-23,2023,4,Overall,Female,Overall,64,0.4
+Entire Network,FluSurv-NET,2022-23,2023,4,Overall,Male,Overall,54.8,0.5
+Entire Network,FluSurv-NET,2022-23,2023,4,Overall,Overall,Overall,59,0.5
+Entire Network,EIP,2022-23,2023,4,Overall,Overall,Overall,60.1,0.4
+Entire Network,FluSurv-NET,2022-23,2023,4,Overall,Overall,White,52.9,0.5
+Entire Network,FluSurv-NET,2022-23,2023,4,Overall,Overall,Black,84,0.5
+Entire Network,FluSurv-NET,2022-23,2023,4,Overall,Overall,Hispanic/Latino,54.4,0.3
+Entire Network,FluSurv-NET,2022-23,2023,4,Overall,Overall,Asian/Pacific Islander,26.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,4,Overall,Overall,American Indian/Alaska Native,80.7,0.5
+Entire Network,FluSurv-NET,2022-23,2023,4,Overall,Female,Overall,63.1,0.4
+Entire Network,FluSurv-NET,2022-23,2023,5,Overall,Male,Overall,55.3,0.4
+Entire Network,FluSurv-NET,2022-23,2023,5,Overall,Overall,Overall,59.5,0.4
+Entire Network,FluSurv-NET,2022-23,2023,5,Overall,Overall,White,53.3,0.4
+Entire Network,EIP,2022-23,2023,5,Overall,Overall,Overall,60.6,0.5
+Entire Network,EIP,2022-23,2023,5,Overall,Overall,Hispanic/Latino,56.2,0.5
+Entire Network,EIP,2022-23,2023,5,Overall,Overall,Asian/Pacific Islander,26,0.2
+Entire Network,EIP,2022-23,2023,5,Overall,Overall,American Indian/Alaska Native,85.2,0.5
+Entire Network,EIP,2022-23,2023,5,Overall,Male,Overall,56.5,0.4
+Entire Network,EIP,2022-23,2023,5,Overall,Female,Overall,64.5,0.5
+Entire Network,FluSurv-NET,2022-23,2023,5,Overall,Female,Overall,63.6,0.4
+Entire Network,FluSurv-NET,2022-23,2023,5,Overall,Overall,Black,84.4,0.5
+Entire Network,FluSurv-NET,2022-23,2023,5,Overall,Overall,Hispanic/Latino,54.9,0.5
+Entire Network,FluSurv-NET,2022-23,2023,5,Overall,Overall,Asian/Pacific Islander,26.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,5,Overall,Overall,American Indian/Alaska Native,81.2,0.5
+Entire Network,EIP,2022-23,2023,5,Overall,Overall,White,54.1,0.4
+Entire Network,EIP,2022-23,2023,5,Overall,Overall,Black,84.7,0.5
+Entire Network,EIP,2022-23,2023,6,Overall,Overall,Black,85.2,0.5
+Entire Network,EIP,2022-23,2023,6,Overall,Overall,White,54.4,0.3
+Entire Network,EIP,2022-23,2023,6,Overall,Overall,Hispanic/Latino,56.6,0.3
+Entire Network,EIP,2022-23,2023,6,Overall,Overall,Asian/Pacific Islander,26.2,0.2
+Entire Network,EIP,2022-23,2023,6,Overall,Overall,American Indian/Alaska Native,85.2,0
+Entire Network,EIP,2022-23,2023,6,Overall,Male,Overall,56.8,0.4
+Entire Network,EIP,2022-23,2023,6,Overall,Female,Overall,64.8,0.3
+Entire Network,EIP,2022-23,2023,6,Overall,Overall,Overall,60.9,0.4
+Entire Network,FluSurv-NET,2022-23,2023,6,Overall,Overall,White,53.6,0.3
+Entire Network,FluSurv-NET,2022-23,2023,6,Overall,Overall,Black,84.9,0.5
+Entire Network,FluSurv-NET,2022-23,2023,6,Overall,Overall,Hispanic/Latino,55.3,0.4
+Entire Network,FluSurv-NET,2022-23,2023,6,Overall,Female,Overall,63.9,0.4
+Entire Network,FluSurv-NET,2022-23,2023,6,Overall,Male,Overall,55.6,0.4
+Entire Network,FluSurv-NET,2022-23,2023,6,Overall,Overall,Asian/Pacific Islander,27.1,0.2
+Entire Network,FluSurv-NET,2022-23,2023,6,Overall,Overall,American Indian/Alaska Native,81.2,0
+Entire Network,FluSurv-NET,2022-23,2023,6,Overall,Overall,Overall,59.8,0.4
+Entire Network,FluSurv-NET,2022-23,2023,7,Overall,Overall,Overall,60.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,7,Overall,Overall,American Indian/Alaska Native,81.2,0
+Entire Network,FluSurv-NET,2022-23,2023,7,Overall,Overall,Asian/Pacific Islander,27.2,0.1
+Entire Network,FluSurv-NET,2022-23,2023,7,Overall,Male,Overall,55.9,0.3
+Entire Network,FluSurv-NET,2022-23,2023,7,Overall,Female,Overall,64.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,7,Overall,Overall,Hispanic/Latino,55.4,0.2
+Entire Network,FluSurv-NET,2022-23,2023,7,Overall,Overall,Black,85.3,0.4
+Entire Network,FluSurv-NET,2022-23,2023,7,Overall,Overall,White,53.9,0.3
+Entire Network,EIP,2022-23,2023,7,Overall,Overall,Overall,61.2,0.3
+Entire Network,EIP,2022-23,2023,7,Overall,Female,Overall,65.2,0.4
+Entire Network,EIP,2022-23,2023,7,Overall,Male,Overall,57.1,0.3
+Entire Network,EIP,2022-23,2023,7,Overall,Overall,American Indian/Alaska Native,85.2,0
+Entire Network,EIP,2022-23,2023,7,Overall,Overall,Asian/Pacific Islander,26.4,0.2
+Entire Network,EIP,2022-23,2023,7,Overall,Overall,Hispanic/Latino,56.8,0.2
+Entire Network,EIP,2022-23,2023,7,Overall,Overall,White,54.7,0.3
+Entire Network,EIP,2022-23,2023,7,Overall,Overall,Black,85.7,0.4
+Entire Network,FluSurv-NET,2022-23,2023,8,Overall,Overall,American Indian/Alaska Native,81.2,0
+Entire Network,FluSurv-NET,2022-23,2023,8,Overall,Male,Overall,56.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,8,Overall,Overall,Overall,60.4,0.3
+Entire Network,EIP,2022-23,2023,8,Overall,Overall,Asian/Pacific Islander,26.5,0.1
+Entire Network,EIP,2022-23,2023,8,Overall,Overall,American Indian/Alaska Native,85.2,0
+Entire Network,EIP,2022-23,2023,8,Overall,Male,Overall,57.4,0.3
+Entire Network,EIP,2022-23,2023,8,Overall,Overall,Overall,61.5,0.3
+Entire Network,FluSurv-NET,2022-23,2023,8,Overall,Overall,White,54.1,0.2
+Entire Network,FluSurv-NET,2022-23,2023,8,Overall,Overall,Black,85.8,0.5
+Entire Network,FluSurv-NET,2022-23,2023,8,Overall,Overall,Hispanic/Latino,55.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,8,Overall,Overall,Asian/Pacific Islander,27.4,0.2
+Entire Network,FluSurv-NET,2022-23,2023,8,Overall,Female,Overall,64.5,0.3
+Entire Network,EIP,2022-23,2023,8,Overall,Female,Overall,65.4,0.2
+Entire Network,EIP,2022-23,2023,8,Overall,Overall,Black,86.1,0.4
+Entire Network,EIP,2022-23,2023,8,Overall,Overall,Hispanic/Latino,57,0.3
+Entire Network,EIP,2022-23,2023,8,Overall,Overall,White,54.9,0.2
+Entire Network,EIP,2022-23,2023,9,Overall,Overall,Black,86.5,0.4
+Entire Network,EIP,2022-23,2023,9,Overall,Overall,White,55.1,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,Overall,Overall,American Indian/Alaska Native,81.2,0
+Entire Network,FluSurv-NET,2022-23,2023,9,Overall,Overall,Asian/Pacific Islander,27.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,Overall,Overall,Hispanic/Latino,55.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,Overall,Overall,Black,86.1,0.4
+Entire Network,FluSurv-NET,2022-23,2023,9,Overall,Female,Overall,64.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,Overall,Overall,White,54.3,0.2
+Entire Network,EIP,2022-23,2023,9,Overall,Female,Overall,65.6,0.2
+Entire Network,EIP,2022-23,2023,9,Overall,Male,Overall,57.7,0.3
+Entire Network,EIP,2022-23,2023,9,Overall,Overall,American Indian/Alaska Native,85.2,0
+Entire Network,EIP,2022-23,2023,9,Overall,Overall,Asian/Pacific Islander,26.7,0.2
+Entire Network,EIP,2022-23,2023,9,Overall,Overall,Hispanic/Latino,57.2,0.2
+Entire Network,EIP,2022-23,2023,9,Overall,Overall,Overall,61.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,Overall,Overall,Overall,60.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,Overall,Male,Overall,56.5,0.3
+Entire Network,FluSurv-NET,2022-23,2023,10,Overall,Overall,Overall,60.9,0.3
+Entire Network,FluSurv-NET,2022-23,2023,10,Overall,Female,Overall,65,0.3
+Entire Network,EIP,2022-23,2023,10,Overall,Overall,Overall,62,0.3
+Entire Network,FluSurv-NET,2022-23,2023,10,Overall,Overall,White,54.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,10,Overall,Overall,Black,86.5,0.3
+Entire Network,FluSurv-NET,2022-23,2023,10,Overall,Overall,Hispanic/Latino,56,0.2
+Entire Network,FluSurv-NET,2022-23,2023,10,Overall,Overall,Asian/Pacific Islander,27.8,0.2
+Entire Network,FluSurv-NET,2022-23,2023,10,Overall,Overall,American Indian/Alaska Native,81.2,0
+Entire Network,FluSurv-NET,2022-23,2023,10,Overall,Male,Overall,56.7,0.2
+Entire Network,EIP,2022-23,2023,10,Overall,Overall,White,55.3,0.2
+Entire Network,EIP,2022-23,2023,10,Overall,Overall,Black,86.8,0.4
+Entire Network,EIP,2022-23,2023,10,Overall,Overall,Hispanic/Latino,57.4,0.2
+Entire Network,EIP,2022-23,2023,10,Overall,Overall,Asian/Pacific Islander,26.8,0.2
+Entire Network,EIP,2022-23,2023,10,Overall,Overall,American Indian/Alaska Native,85.2,0
+Entire Network,EIP,2022-23,2023,10,Overall,Male,Overall,57.9,0.3
+Entire Network,EIP,2022-23,2023,10,Overall,Female,Overall,65.9,0.3
+Entire Network,EIP,2022-23,2023,11,Overall,Overall,White,55.5,0.2
+Entire Network,EIP,2022-23,2023,11,Overall,Overall,Black,87.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,11,Overall,Overall,Black,86.8,0.4
+Entire Network,FluSurv-NET,2022-23,2023,11,Overall,Overall,Hispanic/Latino,56.3,0.2
+Entire Network,FluSurv-NET,2022-23,2023,11,Overall,Overall,Asian/Pacific Islander,27.9,0.1
+Entire Network,FluSurv-NET,2022-23,2023,11,Overall,Overall,American Indian/Alaska Native,81.2,0
+Entire Network,FluSurv-NET,2022-23,2023,11,Overall,Overall,White,54.8,0.2
+Entire Network,FluSurv-NET,2022-23,2023,11,Overall,Female,Overall,65.3,0.3
+Entire Network,EIP,2022-23,2023,11,Overall,Overall,Overall,62.2,0.2
+Entire Network,EIP,2022-23,2023,11,Overall,Overall,Hispanic/Latino,57.6,0.2
+Entire Network,EIP,2022-23,2023,11,Overall,Overall,Asian/Pacific Islander,27,0.1
+Entire Network,EIP,2022-23,2023,11,Overall,Overall,American Indian/Alaska Native,85.2,0
+Entire Network,EIP,2022-23,2023,11,Overall,Male,Overall,58.1,0.2
+Entire Network,EIP,2022-23,2023,11,Overall,Female,Overall,66.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,11,Overall,Male,Overall,56.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,11,Overall,Overall,Overall,61.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,12,Overall,Overall,Overall,61.5,0.3
+Entire Network,FluSurv-NET,2022-23,2023,12,Overall,Female,Overall,65.6,0.3
+Entire Network,EIP,2022-23,2023,12,Overall,Overall,Overall,62.5,0.3
+Entire Network,FluSurv-NET,2022-23,2023,12,Overall,Overall,Black,87.4,0.5
+Entire Network,FluSurv-NET,2022-23,2023,12,Overall,Overall,White,55,0.2
+Entire Network,FluSurv-NET,2022-23,2023,12,Overall,Male,Overall,57.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,12,Overall,Overall,American Indian/Alaska Native,81.2,0
+Entire Network,FluSurv-NET,2022-23,2023,12,Overall,Overall,Asian/Pacific Islander,28,0.1
+Entire Network,FluSurv-NET,2022-23,2023,12,Overall,Overall,Hispanic/Latino,56.5,0.2
+Entire Network,EIP,2022-23,2023,12,Overall,Female,Overall,66.5,0.3
+Entire Network,EIP,2022-23,2023,12,Overall,Male,Overall,58.4,0.3
+Entire Network,EIP,2022-23,2023,12,Overall,Overall,American Indian/Alaska Native,85.2,0
+Entire Network,EIP,2022-23,2023,12,Overall,Overall,Asian/Pacific Islander,27,0.1
+Entire Network,EIP,2022-23,2023,12,Overall,Overall,Hispanic/Latino,57.8,0.2
+Entire Network,EIP,2022-23,2023,12,Overall,Overall,Black,87.6,0.5
+Entire Network,EIP,2022-23,2023,12,Overall,Overall,White,55.8,0.3
+Entire Network,EIP,2022-23,2023,13,Overall,Overall,White,56,0.2
+Entire Network,EIP,2022-23,2023,13,Overall,Overall,Black,88.1,0.5
+Entire Network,EIP,2022-23,2023,13,Overall,Overall,Hispanic/Latino,58.1,0.3
+Entire Network,EIP,2022-23,2023,13,Overall,Overall,Asian/Pacific Islander,27.2,0.2
+Entire Network,EIP,2022-23,2023,13,Overall,Overall,American Indian/Alaska Native,86.9,1.6
+Entire Network,EIP,2022-23,2023,13,Overall,Male,Overall,58.7,0.3
+Entire Network,EIP,2022-23,2023,13,Overall,Female,Overall,66.8,0.3
+Entire Network,FluSurv-NET,2022-23,2023,13,Overall,Overall,Hispanic/Latino,56.8,0.3
+Entire Network,FluSurv-NET,2022-23,2023,13,Overall,Overall,Asian/Pacific Islander,28.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,13,Overall,Overall,American Indian/Alaska Native,82.7,1.5
+Entire Network,FluSurv-NET,2022-23,2023,13,Overall,Male,Overall,57.4,0.3
+Entire Network,FluSurv-NET,2022-23,2023,13,Overall,Overall,White,55.2,0.2
+Entire Network,FluSurv-NET,2022-23,2023,13,Overall,Overall,Black,87.8,0.5
+Entire Network,EIP,2022-23,2023,13,Overall,Overall,Overall,62.8,0.3
+Entire Network,FluSurv-NET,2022-23,2023,13,Overall,Female,Overall,65.8,0.2
+Entire Network,FluSurv-NET,2022-23,2023,13,Overall,Overall,Overall,61.7,0.3
+Entire Network,FluSurv-NET,2022-23,2023,14,Overall,Overall,American Indian/Alaska Native,83.2,0.5
+Entire Network,FluSurv-NET,2022-23,2023,14,Overall,Overall,Overall,62,0.2
+Entire Network,FluSurv-NET,2022-23,2023,14,Overall,Male,Overall,57.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,14,Overall,Female,Overall,66.1,0.3
+Entire Network,EIP,2022-23,2023,14,Overall,Overall,White,56.1,0.2
+Entire Network,EIP,2022-23,2023,14,Overall,Female,Overall,67,0.3
+Entire Network,EIP,2022-23,2023,14,Overall,Overall,American Indian/Alaska Native,87.4,0.5
+Entire Network,EIP,2022-23,2023,14,Overall,Overall,Asian/Pacific Islander,27.4,0.2
+Entire Network,EIP,2022-23,2023,14,Overall,Overall,Hispanic/Latino,58.3,0.1
+Entire Network,EIP,2022-23,2023,14,Overall,Overall,Black,88.5,0.4
+Entire Network,FluSurv-NET,2022-23,2023,14,Overall,Overall,Black,88.2,0.4
+Entire Network,FluSurv-NET,2022-23,2023,14,Overall,Overall,White,55.4,0.2
+Entire Network,EIP,2022-23,2023,14,Overall,Overall,Overall,63,0.3
+Entire Network,EIP,2022-23,2023,14,Overall,Male,Overall,58.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,14,Overall,Overall,Asian/Pacific Islander,28.3,0.2
+Entire Network,FluSurv-NET,2022-23,2023,14,Overall,Overall,Hispanic/Latino,56.9,0.1
+Entire Network,EIP,2022-23,2023,15,Overall,Male,Overall,59.1,0.2
+Entire Network,EIP,2022-23,2023,15,Overall,Overall,American Indian/Alaska Native,87.4,0
+Entire Network,EIP,2022-23,2023,15,Overall,Overall,White,56.4,0.2
+Entire Network,EIP,2022-23,2023,15,Overall,Overall,Asian/Pacific Islander,27.4,0
+Entire Network,EIP,2022-23,2023,15,Overall,Overall,Hispanic/Latino,58.5,0.2
+Entire Network,EIP,2022-23,2023,15,Overall,Overall,Black,88.9,0.4
+Entire Network,EIP,2022-23,2023,15,Overall,Female,Overall,67.3,0.2
+Entire Network,FluSurv-NET,2022-23,2023,15,Overall,Female,Overall,66.3,0.2
+Entire Network,FluSurv-NET,2022-23,2023,15,Overall,Overall,American Indian/Alaska Native,83.2,0
+Entire Network,FluSurv-NET,2022-23,2023,15,Overall,Overall,Asian/Pacific Islander,28.3,0
+Entire Network,FluSurv-NET,2022-23,2023,15,Overall,Overall,Hispanic/Latino,57.2,0.2
+Entire Network,FluSurv-NET,2022-23,2023,15,Overall,Overall,Black,88.5,0.4
+Entire Network,FluSurv-NET,2022-23,2023,15,Overall,Overall,White,55.5,0.2
+Entire Network,EIP,2022-23,2023,15,Overall,Overall,Overall,63.3,0.2
+Entire Network,FluSurv-NET,2022-23,2023,15,Overall,Overall,Overall,62.2,0.2
+Entire Network,FluSurv-NET,2022-23,2023,15,Overall,Male,Overall,57.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,Overall,Overall,Overall,62.4,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,Overall,Overall,American Indian/Alaska Native,84.1,1
+Entire Network,FluSurv-NET,2022-23,2023,16,Overall,Female,Overall,66.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,Overall,Male,Overall,58.1,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,Overall,Overall,Hispanic/Latino,57.4,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,Overall,Overall,Asian/Pacific Islander,28.4,0.1
+Entire Network,EIP,2022-23,2023,16,Overall,Male,Overall,59.3,0.2
+Entire Network,EIP,2022-23,2023,16,Overall,Overall,Overall,63.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,Overall,Overall,White,55.7,0.1
+Entire Network,FluSurv-NET,2022-23,2023,16,Overall,Overall,Black,88.9,0.3
+Entire Network,EIP,2022-23,2023,16,Overall,Overall,Black,89.2,0.3
+Entire Network,EIP,2022-23,2023,16,Overall,Overall,Hispanic/Latino,58.7,0.2
+Entire Network,EIP,2022-23,2023,16,Overall,Overall,Asian/Pacific Islander,27.5,0
+Entire Network,EIP,2022-23,2023,16,Overall,Overall,American Indian/Alaska Native,88.5,1.1
+Entire Network,EIP,2022-23,2023,16,Overall,Female,Overall,67.5,0.2
+Entire Network,EIP,2022-23,2023,16,Overall,Overall,White,56.5,0.1
+Entire Network,EIP,2022-23,2023,17,Overall,Overall,American Indian/Alaska Native,89.1,0.5
+Entire Network,EIP,2022-23,2023,17,Overall,Overall,Asian/Pacific Islander,27.5,0.1
+Entire Network,EIP,2022-23,2023,17,Overall,Overall,Hispanic/Latino,58.7,0.1
+Entire Network,EIP,2022-23,2023,17,Overall,Overall,Black,89.6,0.4
+Entire Network,EIP,2022-23,2023,17,Overall,Overall,White,56.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,Overall,Male,Overall,58.2,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,Overall,Overall,American Indian/Alaska Native,84.6,0.5
+Entire Network,FluSurv-NET,2022-23,2023,17,Overall,Overall,Asian/Pacific Islander,28.5,0.1
+Entire Network,FluSurv-NET,2022-23,2023,17,Overall,Overall,Hispanic/Latino,57.4,0
+Entire Network,FluSurv-NET,2022-23,2023,17,Overall,Overall,Black,89.2,0.4
+Entire Network,EIP,2022-23,2023,17,Overall,Male,Overall,59.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,Overall,Overall,White,55.8,0.2
+Entire Network,EIP,2022-23,2023,17,Overall,Overall,Overall,63.7,0.2
+Entire Network,EIP,2022-23,2023,17,Overall,Female,Overall,67.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,Overall,Overall,Overall,62.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,Overall,Female,Overall,66.7,0.2
+Entire Network,EIP,2022-23,2022,40,0-4 yr,Overall,Overall,1.1,1.1
+Entire Network,FluSurv-NET,2022-23,2022,40,0-4 yr,Overall,Overall,0.9,0.9
+Entire Network,EIP,2022-23,2022,41,0-4 yr,Overall,Overall,2,0.9
+Entire Network,FluSurv-NET,2022-23,2022,41,0-4 yr,Overall,Overall,1.7,0.8
+Entire Network,FluSurv-NET,2022-23,2022,42,0-4 yr,Overall,Overall,3.5,1.9
+Entire Network,EIP,2022-23,2022,42,0-4 yr,Overall,Overall,4,2
+Entire Network,EIP,2022-23,2022,43,0-4 yr,Overall,Overall,7.4,3.4
+Entire Network,FluSurv-NET,2022-23,2022,43,0-4 yr,Overall,Overall,6.5,2.9
+Entire Network,FluSurv-NET,2022-23,2022,44,0-4 yr,Overall,Overall,10.2,3.7
+Entire Network,EIP,2022-23,2022,44,0-4 yr,Overall,Overall,11.6,4.3
+Entire Network,EIP,2022-23,2022,45,0-4 yr,Overall,Overall,18.1,6.4
+Entire Network,FluSurv-NET,2022-23,2022,45,0-4 yr,Overall,Overall,15.9,5.7
+Entire Network,FluSurv-NET,2022-23,2022,46,0-4 yr,Overall,Overall,22.3,6.5
+Entire Network,EIP,2022-23,2022,46,0-4 yr,Overall,Overall,25.4,7.3
+Entire Network,EIP,2022-23,2022,47,0-4 yr,Overall,Overall,37.8,12.4
+Entire Network,FluSurv-NET,2022-23,2022,47,0-4 yr,Overall,Overall,33.6,11.3
+Entire Network,FluSurv-NET,2022-23,2022,48,0-4 yr,Overall,Overall,44.5,10.9
+Entire Network,EIP,2022-23,2022,48,0-4 yr,Overall,Overall,49.8,12
+Entire Network,FluSurv-NET,2022-23,2022,49,0-4 yr,Overall,Overall,53.5,9
+Entire Network,EIP,2022-23,2022,49,0-4 yr,Overall,Overall,59,9.1
+Entire Network,EIP,2022-23,2022,50,0-4 yr,Overall,Overall,67.3,8.3
+Entire Network,FluSurv-NET,2022-23,2022,50,0-4 yr,Overall,Overall,61.9,8.4
+Entire Network,FluSurv-NET,2022-23,2022,51,0-4 yr,Overall,Overall,68.4,6.5
+Entire Network,EIP,2022-23,2022,51,0-4 yr,Overall,Overall,73.6,6.3
+Entire Network,FluSurv-NET,2022-23,2022,52,0-4 yr,Overall,Overall,73.4,5
+Entire Network,EIP,2022-23,2022,52,0-4 yr,Overall,Overall,78.2,4.6
+Entire Network,EIP,2022-23,2023,1,0-4 yr,Overall,Overall,79.7,1.6
+Entire Network,FluSurv-NET,2022-23,2023,1,0-4 yr,Overall,Overall,75.5,2.1
+Entire Network,EIP,2022-23,2023,2,0-4 yr,Overall,Overall,80.9,1.2
+Entire Network,FluSurv-NET,2022-23,2023,2,0-4 yr,Overall,Overall,76.7,1.2
+Entire Network,FluSurv-NET,2022-23,2023,3,0-4 yr,Overall,Overall,77.3,0.6
+Entire Network,EIP,2022-23,2023,3,0-4 yr,Overall,Overall,81.5,0.6
+Entire Network,EIP,2022-23,2023,4,0-4 yr,Overall,Overall,81.6,0.1
+Entire Network,FluSurv-NET,2022-23,2023,4,0-4 yr,Overall,Overall,77.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,5,0-4 yr,Overall,Overall,77.7,0.3
+Entire Network,EIP,2022-23,2023,5,0-4 yr,Overall,Overall,81.9,0.3
+Entire Network,EIP,2022-23,2023,6,0-4 yr,Overall,Overall,82.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,6,0-4 yr,Overall,Overall,78.1,0.4
+Entire Network,FluSurv-NET,2022-23,2023,7,0-4 yr,Overall,Overall,78.3,0.2
+Entire Network,EIP,2022-23,2023,7,0-4 yr,Overall,Overall,82.5,0.3
+Entire Network,EIP,2022-23,2023,8,0-4 yr,Overall,Overall,82.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,8,0-4 yr,Overall,Overall,78.6,0.2
+Entire Network,EIP,2022-23,2023,9,0-4 yr,Overall,Overall,83.1,0.4
+Entire Network,FluSurv-NET,2022-23,2023,9,0-4 yr,Overall,Overall,78.9,0.4
+Entire Network,FluSurv-NET,2022-23,2023,10,0-4 yr,Overall,Overall,79.2,0.2
+Entire Network,EIP,2022-23,2023,10,0-4 yr,Overall,Overall,83.3,0.2
+Entire Network,FluSurv-NET,2022-23,2023,11,0-4 yr,Overall,Overall,79.4,0.2
+Entire Network,EIP,2022-23,2023,11,0-4 yr,Overall,Overall,83.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,12,0-4 yr,Overall,Overall,79.7,0.3
+Entire Network,EIP,2022-23,2023,12,0-4 yr,Overall,Overall,83.8,0.2
+Entire Network,EIP,2022-23,2023,13,0-4 yr,Overall,Overall,84,0.2
+Entire Network,FluSurv-NET,2022-23,2023,13,0-4 yr,Overall,Overall,79.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,14,0-4 yr,Overall,Overall,80,0.1
+Entire Network,EIP,2022-23,2023,14,0-4 yr,Overall,Overall,84.1,0.1
+Entire Network,EIP,2022-23,2023,15,0-4 yr,Overall,Overall,84.5,0.4
+Entire Network,FluSurv-NET,2022-23,2023,15,0-4 yr,Overall,Overall,80.3,0.4
+Entire Network,FluSurv-NET,2022-23,2023,16,0-4 yr,Overall,Overall,80.6,0.2
+Entire Network,EIP,2022-23,2023,16,0-4 yr,Overall,Overall,84.8,0.3
+Entire Network,EIP,2022-23,2023,17,0-4 yr,Overall,Overall,85,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,0-4 yr,Overall,Overall,80.8,0.2
+Entire Network,FluSurv-NET,2022-23,2022,40,5-17 yr,Overall,Overall,0.5,0.5
+Entire Network,EIP,2022-23,2022,40,5-17 yr,Overall,Overall,0.5,0.5
+Entire Network,EIP,2022-23,2022,41,5-17 yr,Overall,Overall,1.1,0.6
+Entire Network,FluSurv-NET,2022-23,2022,41,5-17 yr,Overall,Overall,0.9,0.5
+Entire Network,FluSurv-NET,2022-23,2022,42,5-17 yr,Overall,Overall,1.9,1
+Entire Network,EIP,2022-23,2022,42,5-17 yr,Overall,Overall,2.2,1.1
+Entire Network,EIP,2022-23,2022,43,5-17 yr,Overall,Overall,3.7,1.5
+Entire Network,FluSurv-NET,2022-23,2022,43,5-17 yr,Overall,Overall,3.2,1.3
+Entire Network,FluSurv-NET,2022-23,2022,44,5-17 yr,Overall,Overall,5.6,2.4
+Entire Network,EIP,2022-23,2022,44,5-17 yr,Overall,Overall,6.4,2.7
+Entire Network,EIP,2022-23,2022,45,5-17 yr,Overall,Overall,9.3,2.9
+Entire Network,FluSurv-NET,2022-23,2022,45,5-17 yr,Overall,Overall,8.2,2.6
+Entire Network,EIP,2022-23,2022,46,5-17 yr,Overall,Overall,12.1,2.8
+Entire Network,FluSurv-NET,2022-23,2022,46,5-17 yr,Overall,Overall,10.7,2.5
+Entire Network,EIP,2022-23,2022,47,5-17 yr,Overall,Overall,15.9,3.9
+Entire Network,FluSurv-NET,2022-23,2022,47,5-17 yr,Overall,Overall,14.3,3.6
+Entire Network,FluSurv-NET,2022-23,2022,48,5-17 yr,Overall,Overall,17.5,3.2
+Entire Network,EIP,2022-23,2022,48,5-17 yr,Overall,Overall,19.2,3.3
+Entire Network,EIP,2022-23,2022,49,5-17 yr,Overall,Overall,22,2.8
+Entire Network,FluSurv-NET,2022-23,2022,49,5-17 yr,Overall,Overall,20.4,2.9
+Entire Network,EIP,2022-23,2022,50,5-17 yr,Overall,Overall,25.1,3.1
+Entire Network,FluSurv-NET,2022-23,2022,50,5-17 yr,Overall,Overall,23.5,3.1
+Entire Network,FluSurv-NET,2022-23,2022,51,5-17 yr,Overall,Overall,25.6,2
+Entire Network,EIP,2022-23,2022,51,5-17 yr,Overall,Overall,26.9,1.8
+Entire Network,FluSurv-NET,2022-23,2022,52,5-17 yr,Overall,Overall,26.8,1.3
+Entire Network,EIP,2022-23,2022,52,5-17 yr,Overall,Overall,27.9,1
+Entire Network,EIP,2022-23,2023,1,5-17 yr,Overall,Overall,28.2,0.4
+Entire Network,FluSurv-NET,2022-23,2023,1,5-17 yr,Overall,Overall,27.3,0.4
+Entire Network,EIP,2022-23,2023,2,5-17 yr,Overall,Overall,28.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,2,5-17 yr,Overall,Overall,27.5,0.3
+Entire Network,FluSurv-NET,2022-23,2023,3,5-17 yr,Overall,Overall,27.7,0.2
+Entire Network,EIP,2022-23,2023,3,5-17 yr,Overall,Overall,28.6,0.1
+Entire Network,EIP,2022-23,2023,4,5-17 yr,Overall,Overall,28.7,0.1
+Entire Network,FluSurv-NET,2022-23,2023,4,5-17 yr,Overall,Overall,27.8,0.1
+Entire Network,FluSurv-NET,2022-23,2023,5,5-17 yr,Overall,Overall,27.9,0.1
+Entire Network,EIP,2022-23,2023,5,5-17 yr,Overall,Overall,28.8,0.1
+Entire Network,EIP,2022-23,2023,6,5-17 yr,Overall,Overall,29,0.2
+Entire Network,FluSurv-NET,2022-23,2023,6,5-17 yr,Overall,Overall,28.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,7,5-17 yr,Overall,Overall,28.1,0.1
+Entire Network,EIP,2022-23,2023,7,5-17 yr,Overall,Overall,29,0.1
+Entire Network,FluSurv-NET,2022-23,2023,8,5-17 yr,Overall,Overall,28.4,0.2
+Entire Network,EIP,2022-23,2023,8,5-17 yr,Overall,Overall,29.2,0.2
+Entire Network,EIP,2022-23,2023,9,5-17 yr,Overall,Overall,29.3,0.1
+Entire Network,FluSurv-NET,2022-23,2023,9,5-17 yr,Overall,Overall,28.4,0
+Entire Network,FluSurv-NET,2022-23,2023,10,5-17 yr,Overall,Overall,28.6,0.2
+Entire Network,EIP,2022-23,2023,10,5-17 yr,Overall,Overall,29.4,0.2
+Entire Network,FluSurv-NET,2022-23,2023,11,5-17 yr,Overall,Overall,28.7,0.1
+Entire Network,EIP,2022-23,2023,11,5-17 yr,Overall,Overall,29.6,0.1
+Entire Network,EIP,2022-23,2023,12,5-17 yr,Overall,Overall,29.8,0.2
+Entire Network,FluSurv-NET,2022-23,2023,12,5-17 yr,Overall,Overall,28.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,13,5-17 yr,Overall,Overall,29.1,0.2
+Entire Network,EIP,2022-23,2023,13,5-17 yr,Overall,Overall,29.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,14,5-17 yr,Overall,Overall,29.3,0.2
+Entire Network,EIP,2022-23,2023,14,5-17 yr,Overall,Overall,30.1,0.2
+Entire Network,EIP,2022-23,2023,15,5-17 yr,Overall,Overall,30.2,0.1
+Entire Network,FluSurv-NET,2022-23,2023,15,5-17 yr,Overall,Overall,29.4,0.1
+Entire Network,FluSurv-NET,2022-23,2023,16,5-17 yr,Overall,Overall,29.5,0.1
+Entire Network,EIP,2022-23,2023,16,5-17 yr,Overall,Overall,30.3,0.1
+Entire Network,EIP,2022-23,2023,17,5-17 yr,Overall,Overall,30.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,5-17 yr,Overall,Overall,29.6,0.1
+Entire Network,EIP,2022-23,2022,40,18-49 yr,Overall,Overall,0.2,0.2
+Entire Network,FluSurv-NET,2022-23,2022,40,18-49 yr,Overall,Overall,0.2,0.2
+Entire Network,FluSurv-NET,2022-23,2022,41,18-49 yr,Overall,Overall,0.5,0.3
+Entire Network,EIP,2022-23,2022,41,18-49 yr,Overall,Overall,0.5,0.3
+Entire Network,FluSurv-NET,2022-23,2022,42,18-49 yr,Overall,Overall,0.9,0.4
+Entire Network,EIP,2022-23,2022,42,18-49 yr,Overall,Overall,1,0.5
+Entire Network,EIP,2022-23,2022,43,18-49 yr,Overall,Overall,2,1
+Entire Network,FluSurv-NET,2022-23,2022,43,18-49 yr,Overall,Overall,1.8,0.9
+Entire Network,FluSurv-NET,2022-23,2022,44,18-49 yr,Overall,Overall,3.1,1.3
+Entire Network,EIP,2022-23,2022,44,18-49 yr,Overall,Overall,3.4,1.4
+Entire Network,FluSurv-NET,2022-23,2022,45,18-49 yr,Overall,Overall,4.8,1.7
+Entire Network,EIP,2022-23,2022,45,18-49 yr,Overall,Overall,5.3,1.9
+Entire Network,EIP,2022-23,2022,46,18-49 yr,Overall,Overall,7.3,2
+Entire Network,FluSurv-NET,2022-23,2022,46,18-49 yr,Overall,Overall,6.6,1.8
+Entire Network,EIP,2022-23,2022,47,18-49 yr,Overall,Overall,10.8,3.5
+Entire Network,FluSurv-NET,2022-23,2022,47,18-49 yr,Overall,Overall,9.9,3.3
+Entire Network,FluSurv-NET,2022-23,2022,48,18-49 yr,Overall,Overall,13.7,3.7
+Entire Network,EIP,2022-23,2022,48,18-49 yr,Overall,Overall,14.5,3.7
+Entire Network,FluSurv-NET,2022-23,2022,49,18-49 yr,Overall,Overall,16.6,2.9
+Entire Network,EIP,2022-23,2022,49,18-49 yr,Overall,Overall,17.5,2.9
+Entire Network,EIP,2022-23,2022,50,18-49 yr,Overall,Overall,20.1,2.6
+Entire Network,FluSurv-NET,2022-23,2022,50,18-49 yr,Overall,Overall,19.3,2.7
+Entire Network,FluSurv-NET,2022-23,2022,51,18-49 yr,Overall,Overall,21.6,2.3
+Entire Network,EIP,2022-23,2022,51,18-49 yr,Overall,Overall,22.2,2.2
+Entire Network,FluSurv-NET,2022-23,2022,52,18-49 yr,Overall,Overall,23.4,1.8
+Entire Network,EIP,2022-23,2022,52,18-49 yr,Overall,Overall,24.1,1.9
+Entire Network,EIP,2022-23,2023,1,18-49 yr,Overall,Overall,25.2,1.1
+Entire Network,FluSurv-NET,2022-23,2023,1,18-49 yr,Overall,Overall,24.6,1.1
+Entire Network,EIP,2022-23,2023,2,18-49 yr,Overall,Overall,25.8,0.5
+Entire Network,FluSurv-NET,2022-23,2023,2,18-49 yr,Overall,Overall,25.1,0.5
+Entire Network,FluSurv-NET,2022-23,2023,3,18-49 yr,Overall,Overall,25.5,0.4
+Entire Network,EIP,2022-23,2023,3,18-49 yr,Overall,Overall,26.2,0.5
+Entire Network,EIP,2022-23,2023,4,18-49 yr,Overall,Overall,26.4,0.1
+Entire Network,FluSurv-NET,2022-23,2023,4,18-49 yr,Overall,Overall,25.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,5,18-49 yr,Overall,Overall,25.8,0.2
+Entire Network,EIP,2022-23,2023,5,18-49 yr,Overall,Overall,26.6,0.2
+Entire Network,EIP,2022-23,2023,6,18-49 yr,Overall,Overall,26.7,0.1
+Entire Network,FluSurv-NET,2022-23,2023,6,18-49 yr,Overall,Overall,26,0.1
+Entire Network,FluSurv-NET,2022-23,2023,7,18-49 yr,Overall,Overall,26.1,0.1
+Entire Network,EIP,2022-23,2023,7,18-49 yr,Overall,Overall,26.8,0.1
+Entire Network,EIP,2022-23,2023,8,18-49 yr,Overall,Overall,26.9,0.1
+Entire Network,FluSurv-NET,2022-23,2023,8,18-49 yr,Overall,Overall,26.2,0.1
+Entire Network,EIP,2022-23,2023,9,18-49 yr,Overall,Overall,27,0.1
+Entire Network,FluSurv-NET,2022-23,2023,9,18-49 yr,Overall,Overall,26.3,0.1
+Entire Network,EIP,2022-23,2023,10,18-49 yr,Overall,Overall,27.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,10,18-49 yr,Overall,Overall,26.4,0.1
+Entire Network,EIP,2022-23,2023,11,18-49 yr,Overall,Overall,27.2,0.2
+Entire Network,FluSurv-NET,2022-23,2023,11,18-49 yr,Overall,Overall,26.5,0.2
+Entire Network,EIP,2022-23,2023,12,18-49 yr,Overall,Overall,27.4,0.2
+Entire Network,FluSurv-NET,2022-23,2023,12,18-49 yr,Overall,Overall,26.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,13,18-49 yr,Overall,Overall,26.8,0.1
+Entire Network,EIP,2022-23,2023,13,18-49 yr,Overall,Overall,27.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,14,18-49 yr,Overall,Overall,26.9,0.1
+Entire Network,EIP,2022-23,2023,14,18-49 yr,Overall,Overall,27.7,0.1
+Entire Network,EIP,2022-23,2023,15,18-49 yr,Overall,Overall,27.8,0.1
+Entire Network,FluSurv-NET,2022-23,2023,15,18-49 yr,Overall,Overall,27.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,16,18-49 yr,Overall,Overall,27.2,0.1
+Entire Network,EIP,2022-23,2023,16,18-49 yr,Overall,Overall,27.9,0.1
+Entire Network,EIP,2022-23,2023,17,18-49 yr,Overall,Overall,28.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,17,18-49 yr,Overall,Overall,27.3,0.1
+Entire Network,FluSurv-NET,2022-23,2022,40,50-64 yr,Overall,Overall,0.5,0.5
+Entire Network,EIP,2022-23,2022,40,50-64 yr,Overall,Overall,0.5,0.5
+Entire Network,FluSurv-NET,2022-23,2022,41,50-64 yr,Overall,Overall,1.1,0.6
+Entire Network,EIP,2022-23,2022,41,50-64 yr,Overall,Overall,1.2,0.7
+Entire Network,FluSurv-NET,2022-23,2022,42,50-64 yr,Overall,Overall,1.9,0.8
+Entire Network,EIP,2022-23,2022,42,50-64 yr,Overall,Overall,2.1,0.9
+Entire Network,EIP,2022-23,2022,43,50-64 yr,Overall,Overall,4.3,2.2
+Entire Network,FluSurv-NET,2022-23,2022,43,50-64 yr,Overall,Overall,3.9,2
+Entire Network,FluSurv-NET,2022-23,2022,44,50-64 yr,Overall,Overall,6.5,2.7
+Entire Network,EIP,2022-23,2022,44,50-64 yr,Overall,Overall,7.1,2.8
+Entire Network,FluSurv-NET,2022-23,2022,45,50-64 yr,Overall,Overall,9.4,2.9
+Entire Network,EIP,2022-23,2022,45,50-64 yr,Overall,Overall,10.2,3.1
+Entire Network,EIP,2022-23,2022,46,50-64 yr,Overall,Overall,14.6,4.3
+Entire Network,FluSurv-NET,2022-23,2022,46,50-64 yr,Overall,Overall,13.6,4.2
+Entire Network,EIP,2022-23,2022,47,50-64 yr,Overall,Overall,21.8,7.2
+Entire Network,FluSurv-NET,2022-23,2022,47,50-64 yr,Overall,Overall,20.9,7.2
+Entire Network,FluSurv-NET,2022-23,2022,48,50-64 yr,Overall,Overall,30.3,9.4
+Entire Network,EIP,2022-23,2022,48,50-64 yr,Overall,Overall,31.3,9.5
+Entire Network,EIP,2022-23,2022,49,50-64 yr,Overall,Overall,39.5,8.2
+Entire Network,FluSurv-NET,2022-23,2022,49,50-64 yr,Overall,Overall,38.5,8.2
+Entire Network,EIP,2022-23,2022,50,50-64 yr,Overall,Overall,46.2,6.7
+Entire Network,FluSurv-NET,2022-23,2022,50,50-64 yr,Overall,Overall,45.5,7
+Entire Network,FluSurv-NET,2022-23,2022,51,50-64 yr,Overall,Overall,52,6.5
+Entire Network,EIP,2022-23,2022,51,50-64 yr,Overall,Overall,52.3,6.1
+Entire Network,FluSurv-NET,2022-23,2022,52,50-64 yr,Overall,Overall,57.5,5.5
+Entire Network,EIP,2022-23,2022,52,50-64 yr,Overall,Overall,57.3,5
+Entire Network,EIP,2022-23,2023,1,50-64 yr,Overall,Overall,60.2,2.9
+Entire Network,FluSurv-NET,2022-23,2023,1,50-64 yr,Overall,Overall,60.7,3.2
+Entire Network,EIP,2022-23,2023,2,50-64 yr,Overall,Overall,61.7,1.6
+Entire Network,FluSurv-NET,2022-23,2023,2,50-64 yr,Overall,Overall,62.3,1.6
+Entire Network,FluSurv-NET,2022-23,2023,3,50-64 yr,Overall,Overall,63.2,0.9
+Entire Network,EIP,2022-23,2023,3,50-64 yr,Overall,Overall,62.6,0.9
+Entire Network,EIP,2022-23,2023,4,50-64 yr,Overall,Overall,63.3,0.7
+Entire Network,FluSurv-NET,2022-23,2023,4,50-64 yr,Overall,Overall,63.9,0.7
+Entire Network,EIP,2022-23,2023,5,50-64 yr,Overall,Overall,63.8,0.5
+Entire Network,FluSurv-NET,2022-23,2023,5,50-64 yr,Overall,Overall,64.4,0.5
+Entire Network,EIP,2022-23,2023,6,50-64 yr,Overall,Overall,64.4,0.5
+Entire Network,FluSurv-NET,2022-23,2023,6,50-64 yr,Overall,Overall,64.9,0.5
+Entire Network,FluSurv-NET,2022-23,2023,7,50-64 yr,Overall,Overall,65.2,0.3
+Entire Network,EIP,2022-23,2023,7,50-64 yr,Overall,Overall,64.7,0.4
+Entire Network,FluSurv-NET,2022-23,2023,8,50-64 yr,Overall,Overall,65.6,0.4
+Entire Network,EIP,2022-23,2023,8,50-64 yr,Overall,Overall,65.1,0.3
+Entire Network,FluSurv-NET,2022-23,2023,9,50-64 yr,Overall,Overall,65.9,0.3
+Entire Network,EIP,2022-23,2023,9,50-64 yr,Overall,Overall,65.4,0.3
+Entire Network,EIP,2022-23,2023,10,50-64 yr,Overall,Overall,65.6,0.3
+Entire Network,FluSurv-NET,2022-23,2023,10,50-64 yr,Overall,Overall,66.2,0.3
+Entire Network,EIP,2022-23,2023,11,50-64 yr,Overall,Overall,65.8,0.2
+Entire Network,FluSurv-NET,2022-23,2023,11,50-64 yr,Overall,Overall,66.4,0.2
+Entire Network,EIP,2022-23,2023,12,50-64 yr,Overall,Overall,66.1,0.3
+Entire Network,FluSurv-NET,2022-23,2023,12,50-64 yr,Overall,Overall,66.7,0.3
+Entire Network,FluSurv-NET,2022-23,2023,13,50-64 yr,Overall,Overall,67,0.3
+Entire Network,EIP,2022-23,2023,13,50-64 yr,Overall,Overall,66.5,0.4
+Entire Network,FluSurv-NET,2022-23,2023,14,50-64 yr,Overall,Overall,67.4,0.4
+Entire Network,EIP,2022-23,2023,14,50-64 yr,Overall,Overall,66.9,0.4
+Entire Network,FluSurv-NET,2022-23,2023,15,50-64 yr,Overall,Overall,67.6,0.2
+Entire Network,EIP,2022-23,2023,15,50-64 yr,Overall,Overall,67.1,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,50-64 yr,Overall,Overall,67.8,0.2
+Entire Network,EIP,2022-23,2023,16,50-64 yr,Overall,Overall,67.3,0.2
+Entire Network,EIP,2022-23,2023,17,50-64 yr,Overall,Overall,67.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,50-64 yr,Overall,Overall,68,0.2
+Entire Network,EIP,2022-23,2022,40,65+ yr,Overall,Overall,1.1,1.1
+Entire Network,FluSurv-NET,2022-23,2022,40,65+ yr,Overall,Overall,0.9,0.9
+Entire Network,FluSurv-NET,2022-23,2022,41,65+ yr,Overall,Overall,2.2,1.2
+Entire Network,EIP,2022-23,2022,41,65+ yr,Overall,Overall,2.4,1.4
+Entire Network,FluSurv-NET,2022-23,2022,42,65+ yr,Overall,Overall,4.5,2.3
+Entire Network,EIP,2022-23,2022,42,65+ yr,Overall,Overall,4.9,2.5
+Entire Network,EIP,2022-23,2022,43,65+ yr,Overall,Overall,9.2,4.3
+Entire Network,FluSurv-NET,2022-23,2022,43,65+ yr,Overall,Overall,8.5,4
+Entire Network,FluSurv-NET,2022-23,2022,44,65+ yr,Overall,Overall,13.9,5.4
+Entire Network,EIP,2022-23,2022,44,65+ yr,Overall,Overall,15,5.8
+Entire Network,FluSurv-NET,2022-23,2022,45,65+ yr,Overall,Overall,21.9,8
+Entire Network,EIP,2022-23,2022,45,65+ yr,Overall,Overall,23.7,8.7
+Entire Network,FluSurv-NET,2022-23,2022,46,65+ yr,Overall,Overall,32.1,10.2
+Entire Network,EIP,2022-23,2022,46,65+ yr,Overall,Overall,34.4,10.7
+Entire Network,EIP,2022-23,2022,47,65+ yr,Overall,Overall,54.6,20.2
+Entire Network,FluSurv-NET,2022-23,2022,47,65+ yr,Overall,Overall,51.4,19.3
+Entire Network,FluSurv-NET,2022-23,2022,48,65+ yr,Overall,Overall,78.8,27.4
+Entire Network,EIP,2022-23,2022,48,65+ yr,Overall,Overall,82.9,28.3
+Entire Network,FluSurv-NET,2022-23,2022,49,65+ yr,Overall,Overall,102.2,23.4
+Entire Network,EIP,2022-23,2022,49,65+ yr,Overall,Overall,106.9,24
+Entire Network,EIP,2022-23,2022,50,65+ yr,Overall,Overall,125.5,18.6
+Entire Network,FluSurv-NET,2022-23,2022,50,65+ yr,Overall,Overall,121.3,19.1
+Entire Network,EIP,2022-23,2022,51,65+ yr,Overall,Overall,142.2,16.6
+Entire Network,FluSurv-NET,2022-23,2022,51,65+ yr,Overall,Overall,139.2,17.9
+Entire Network,FluSurv-NET,2022-23,2022,52,65+ yr,Overall,Overall,158,18.8
+Entire Network,EIP,2022-23,2022,52,65+ yr,Overall,Overall,160.2,18
+Entire Network,EIP,2022-23,2023,1,65+ yr,Overall,Overall,170.8,10.6
+Entire Network,FluSurv-NET,2022-23,2023,1,65+ yr,Overall,Overall,169.2,11.2
+Entire Network,EIP,2022-23,2023,2,65+ yr,Overall,Overall,175,4.2
+Entire Network,FluSurv-NET,2022-23,2023,2,65+ yr,Overall,Overall,173.5,4.3
+Entire Network,FluSurv-NET,2022-23,2023,3,65+ yr,Overall,Overall,175.9,2.4
+Entire Network,EIP,2022-23,2023,3,65+ yr,Overall,Overall,177.1,2.1
+Entire Network,EIP,2022-23,2023,4,65+ yr,Overall,Overall,178.5,1.4
+Entire Network,FluSurv-NET,2022-23,2023,4,65+ yr,Overall,Overall,177.4,1.5
+Entire Network,EIP,2022-23,2023,5,65+ yr,Overall,Overall,180,1.6
+Entire Network,FluSurv-NET,2022-23,2023,5,65+ yr,Overall,Overall,178.9,1.6
+Entire Network,EIP,2022-23,2023,6,65+ yr,Overall,Overall,181.1,1
+Entire Network,FluSurv-NET,2022-23,2023,6,65+ yr,Overall,Overall,180,1.1
+Entire Network,FluSurv-NET,2022-23,2023,7,65+ yr,Overall,Overall,181.2,1.2
+Entire Network,EIP,2022-23,2023,7,65+ yr,Overall,Overall,182.4,1.3
+Entire Network,EIP,2022-23,2023,8,65+ yr,Overall,Overall,183.1,0.7
+Entire Network,FluSurv-NET,2022-23,2023,8,65+ yr,Overall,Overall,182,0.8
+Entire Network,FluSurv-NET,2022-23,2023,9,65+ yr,Overall,Overall,182.7,0.7
+Entire Network,EIP,2022-23,2023,9,65+ yr,Overall,Overall,183.8,0.7
+Entire Network,EIP,2022-23,2023,10,65+ yr,Overall,Overall,184.6,0.8
+Entire Network,FluSurv-NET,2022-23,2023,10,65+ yr,Overall,Overall,183.6,0.9
+Entire Network,FluSurv-NET,2022-23,2023,11,65+ yr,Overall,Overall,184.3,0.7
+Entire Network,EIP,2022-23,2023,11,65+ yr,Overall,Overall,185.3,0.6
+Entire Network,EIP,2022-23,2023,12,65+ yr,Overall,Overall,185.9,0.6
+Entire Network,FluSurv-NET,2022-23,2023,12,65+ yr,Overall,Overall,184.9,0.6
+Entire Network,FluSurv-NET,2022-23,2023,13,65+ yr,Overall,Overall,185.5,0.6
+Entire Network,EIP,2022-23,2023,13,65+ yr,Overall,Overall,186.5,0.6
+Entire Network,FluSurv-NET,2022-23,2023,14,65+ yr,Overall,Overall,186,0.6
+Entire Network,EIP,2022-23,2023,14,65+ yr,Overall,Overall,187.1,0.6
+Entire Network,FluSurv-NET,2022-23,2023,15,65+ yr,Overall,Overall,186.6,0.6
+Entire Network,EIP,2022-23,2023,15,65+ yr,Overall,Overall,187.7,0.7
+Entire Network,FluSurv-NET,2022-23,2023,16,65+ yr,Overall,Overall,187.3,0.6
+Entire Network,EIP,2022-23,2023,16,65+ yr,Overall,Overall,188.2,0.5
+Entire Network,EIP,2022-23,2023,17,65+ yr,Overall,Overall,188.5,0.3
+Entire Network,FluSurv-NET,2022-23,2023,17,65+ yr,Overall,Overall,187.6,0.3
+Entire Network,EIP,2022-23,2022,40,65-74 yr,Overall,Overall,0.7,0.7
+Entire Network,FluSurv-NET,2022-23,2022,40,65-74 yr,Overall,Overall,0.6,0.6
+Entire Network,FluSurv-NET,2022-23,2022,41,65-74 yr,Overall,Overall,1.5,1
+Entire Network,EIP,2022-23,2022,41,65-74 yr,Overall,Overall,1.7,1
+Entire Network,EIP,2022-23,2022,42,65-74 yr,Overall,Overall,3.4,1.7
+Entire Network,FluSurv-NET,2022-23,2022,42,65-74 yr,Overall,Overall,3.1,1.6
+Entire Network,EIP,2022-23,2022,43,65-74 yr,Overall,Overall,6.4,3.1
+Entire Network,FluSurv-NET,2022-23,2022,43,65-74 yr,Overall,Overall,6,2.9
+Entire Network,EIP,2022-23,2022,44,65-74 yr,Overall,Overall,11,4.6
+Entire Network,FluSurv-NET,2022-23,2022,44,65-74 yr,Overall,Overall,10.2,4.2
+Entire Network,FluSurv-NET,2022-23,2022,45,65-74 yr,Overall,Overall,16.4,6.2
+Entire Network,EIP,2022-23,2022,45,65-74 yr,Overall,Overall,17.8,6.8
+Entire Network,EIP,2022-23,2022,46,65-74 yr,Overall,Overall,25.9,8.1
+Entire Network,FluSurv-NET,2022-23,2022,46,65-74 yr,Overall,Overall,24,7.5
+Entire Network,FluSurv-NET,2022-23,2022,47,65-74 yr,Overall,Overall,37.8,13.8
+Entire Network,EIP,2022-23,2022,47,65-74 yr,Overall,Overall,40.4,14.4
+Entire Network,EIP,2022-23,2022,48,65-74 yr,Overall,Overall,59.3,19
+Entire Network,FluSurv-NET,2022-23,2022,48,65-74 yr,Overall,Overall,57,19.2
+Entire Network,FluSurv-NET,2022-23,2022,49,65-74 yr,Overall,Overall,73.4,16.4
+Entire Network,EIP,2022-23,2022,49,65-74 yr,Overall,Overall,75.8,16.4
+Entire Network,FluSurv-NET,2022-23,2022,50,65-74 yr,Overall,Overall,86.2,12.8
+Entire Network,EIP,2022-23,2022,50,65-74 yr,Overall,Overall,88,12.3
+Entire Network,EIP,2022-23,2022,51,65-74 yr,Overall,Overall,99.4,11.3
+Entire Network,FluSurv-NET,2022-23,2022,51,65-74 yr,Overall,Overall,98.6,12.4
+Entire Network,EIP,2022-23,2022,52,65-74 yr,Overall,Overall,111.3,11.9
+Entire Network,FluSurv-NET,2022-23,2022,52,65-74 yr,Overall,Overall,110.9,12.3
+Entire Network,EIP,2022-23,2023,1,65-74 yr,Overall,Overall,117.8,6.6
+Entire Network,FluSurv-NET,2022-23,2023,1,65-74 yr,Overall,Overall,117.9,7
+Entire Network,FluSurv-NET,2022-23,2023,2,65-74 yr,Overall,Overall,120.8,2.9
+Entire Network,EIP,2022-23,2023,2,65-74 yr,Overall,Overall,120.5,2.7
+Entire Network,FluSurv-NET,2022-23,2023,3,65-74 yr,Overall,Overall,122.4,1.6
+Entire Network,EIP,2022-23,2023,3,65-74 yr,Overall,Overall,121.7,1.2
+Entire Network,EIP,2022-23,2023,4,65-74 yr,Overall,Overall,122.6,0.9
+Entire Network,FluSurv-NET,2022-23,2023,4,65-74 yr,Overall,Overall,123.3,0.9
+Entire Network,EIP,2022-23,2023,5,65-74 yr,Overall,Overall,123.8,1.2
+Entire Network,FluSurv-NET,2022-23,2023,5,65-74 yr,Overall,Overall,124.5,1.2
+Entire Network,EIP,2022-23,2023,6,65-74 yr,Overall,Overall,124.2,0.5
+Entire Network,FluSurv-NET,2022-23,2023,6,65-74 yr,Overall,Overall,125,0.5
+Entire Network,FluSurv-NET,2022-23,2023,7,65-74 yr,Overall,Overall,125.9,0.9
+Entire Network,EIP,2022-23,2023,7,65-74 yr,Overall,Overall,125.2,0.9
+Entire Network,FluSurv-NET,2022-23,2023,8,65-74 yr,Overall,Overall,126.5,0.6
+Entire Network,EIP,2022-23,2023,8,65-74 yr,Overall,Overall,125.7,0.5
+Entire Network,FluSurv-NET,2022-23,2023,9,65-74 yr,Overall,Overall,126.8,0.3
+Entire Network,EIP,2022-23,2023,9,65-74 yr,Overall,Overall,126.1,0.4
+Entire Network,EIP,2022-23,2023,10,65-74 yr,Overall,Overall,126.4,0.4
+Entire Network,FluSurv-NET,2022-23,2023,10,65-74 yr,Overall,Overall,127.2,0.4
+Entire Network,FluSurv-NET,2022-23,2023,11,65-74 yr,Overall,Overall,127.6,0.4
+Entire Network,EIP,2022-23,2023,11,65-74 yr,Overall,Overall,126.8,0.4
+Entire Network,EIP,2022-23,2023,12,65-74 yr,Overall,Overall,127.1,0.4
+Entire Network,FluSurv-NET,2022-23,2023,12,65-74 yr,Overall,Overall,128,0.4
+Entire Network,FluSurv-NET,2022-23,2023,13,65-74 yr,Overall,Overall,128.5,0.5
+Entire Network,EIP,2022-23,2023,13,65-74 yr,Overall,Overall,127.6,0.5
+Entire Network,EIP,2022-23,2023,14,65-74 yr,Overall,Overall,128,0.4
+Entire Network,FluSurv-NET,2022-23,2023,14,65-74 yr,Overall,Overall,128.8,0.3
+Entire Network,EIP,2022-23,2023,15,65-74 yr,Overall,Overall,128.4,0.5
+Entire Network,FluSurv-NET,2022-23,2023,15,65-74 yr,Overall,Overall,129.3,0.5
+Entire Network,FluSurv-NET,2022-23,2023,16,65-74 yr,Overall,Overall,129.6,0.3
+Entire Network,EIP,2022-23,2023,16,65-74 yr,Overall,Overall,128.7,0.3
+Entire Network,EIP,2022-23,2023,17,65-74 yr,Overall,Overall,128.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,65-74 yr,Overall,Overall,129.9,0.2
+Entire Network,FluSurv-NET,2022-23,2022,40,75-84 yr,Overall,Overall,1.4,1.4
+Entire Network,EIP,2022-23,2022,40,75-84 yr,Overall,Overall,1.7,1.7
+Entire Network,FluSurv-NET,2022-23,2022,41,75-84 yr,Overall,Overall,3.2,1.8
+Entire Network,EIP,2022-23,2022,41,75-84 yr,Overall,Overall,3.7,2
+Entire Network,EIP,2022-23,2022,42,75-84 yr,Overall,Overall,6.3,2.6
+Entire Network,FluSurv-NET,2022-23,2022,42,75-84 yr,Overall,Overall,5.7,2.5
+Entire Network,EIP,2022-23,2022,43,75-84 yr,Overall,Overall,12.1,5.8
+Entire Network,FluSurv-NET,2022-23,2022,43,75-84 yr,Overall,Overall,11.1,5.4
+Entire Network,EIP,2022-23,2022,44,75-84 yr,Overall,Overall,19.6,7.5
+Entire Network,FluSurv-NET,2022-23,2022,44,75-84 yr,Overall,Overall,18.3,7.2
+Entire Network,FluSurv-NET,2022-23,2022,45,75-84 yr,Overall,Overall,27.4,9.1
+Entire Network,EIP,2022-23,2022,45,75-84 yr,Overall,Overall,29.3,9.8
+Entire Network,FluSurv-NET,2022-23,2022,46,75-84 yr,Overall,Overall,40.2,12.8
+Entire Network,EIP,2022-23,2022,46,75-84 yr,Overall,Overall,42.8,13.5
+Entire Network,FluSurv-NET,2022-23,2022,47,75-84 yr,Overall,Overall,64.8,24.6
+Entire Network,EIP,2022-23,2022,47,75-84 yr,Overall,Overall,68.3,25.5
+Entire Network,EIP,2022-23,2022,48,75-84 yr,Overall,Overall,106.6,38.3
+Entire Network,FluSurv-NET,2022-23,2022,48,75-84 yr,Overall,Overall,100.8,36
+Entire Network,FluSurv-NET,2022-23,2022,49,75-84 yr,Overall,Overall,131.3,30.4
+Entire Network,EIP,2022-23,2022,49,75-84 yr,Overall,Overall,137.4,30.8
+Entire Network,FluSurv-NET,2022-23,2022,50,75-84 yr,Overall,Overall,157.2,25.9
+Entire Network,EIP,2022-23,2022,50,75-84 yr,Overall,Overall,163,25.6
+Entire Network,FluSurv-NET,2022-23,2022,51,75-84 yr,Overall,Overall,181.1,24
+Entire Network,EIP,2022-23,2022,51,75-84 yr,Overall,Overall,185.2,22.1
+Entire Network,EIP,2022-23,2022,52,75-84 yr,Overall,Overall,208,22.9
+Entire Network,FluSurv-NET,2022-23,2022,52,75-84 yr,Overall,Overall,205.9,24.8
+Entire Network,FluSurv-NET,2022-23,2023,1,75-84 yr,Overall,Overall,220.8,14.8
+Entire Network,EIP,2022-23,2023,1,75-84 yr,Overall,Overall,221.8,13.8
+Entire Network,FluSurv-NET,2022-23,2023,2,75-84 yr,Overall,Overall,226.5,5.7
+Entire Network,EIP,2022-23,2023,2,75-84 yr,Overall,Overall,227.9,6.1
+Entire Network,FluSurv-NET,2022-23,2023,3,75-84 yr,Overall,Overall,229.7,3.2
+Entire Network,EIP,2022-23,2023,3,75-84 yr,Overall,Overall,230.8,2.9
+Entire Network,EIP,2022-23,2023,4,75-84 yr,Overall,Overall,232.7,1.9
+Entire Network,FluSurv-NET,2022-23,2023,4,75-84 yr,Overall,Overall,231.7,2
+Entire Network,EIP,2022-23,2023,5,75-84 yr,Overall,Overall,234.2,1.5
+Entire Network,FluSurv-NET,2022-23,2023,5,75-84 yr,Overall,Overall,233.1,1.4
+Entire Network,EIP,2022-23,2023,6,75-84 yr,Overall,Overall,235.5,1.3
+Entire Network,FluSurv-NET,2022-23,2023,6,75-84 yr,Overall,Overall,234.5,1.4
+Entire Network,FluSurv-NET,2022-23,2023,7,75-84 yr,Overall,Overall,236.2,1.7
+Entire Network,EIP,2022-23,2023,7,75-84 yr,Overall,Overall,237.4,1.9
+Entire Network,FluSurv-NET,2022-23,2023,8,75-84 yr,Overall,Overall,237.5,1.3
+Entire Network,EIP,2022-23,2023,8,75-84 yr,Overall,Overall,238.5,1.1
+Entire Network,FluSurv-NET,2022-23,2023,9,75-84 yr,Overall,Overall,238.8,1.3
+Entire Network,EIP,2022-23,2023,9,75-84 yr,Overall,Overall,239.7,1.2
+Entire Network,EIP,2022-23,2023,10,75-84 yr,Overall,Overall,240.8,1.1
+Entire Network,FluSurv-NET,2022-23,2023,10,75-84 yr,Overall,Overall,240.1,1.3
+Entire Network,FluSurv-NET,2022-23,2023,11,75-84 yr,Overall,Overall,241.1,1
+Entire Network,EIP,2022-23,2023,11,75-84 yr,Overall,Overall,241.8,0.9
+Entire Network,EIP,2022-23,2023,12,75-84 yr,Overall,Overall,242.6,0.8
+Entire Network,FluSurv-NET,2022-23,2023,12,75-84 yr,Overall,Overall,241.9,0.8
+Entire Network,FluSurv-NET,2022-23,2023,13,75-84 yr,Overall,Overall,242.5,0.6
+Entire Network,EIP,2022-23,2023,13,75-84 yr,Overall,Overall,243.2,0.6
+Entire Network,EIP,2022-23,2023,14,75-84 yr,Overall,Overall,243.9,0.8
+Entire Network,FluSurv-NET,2022-23,2023,14,75-84 yr,Overall,Overall,243.4,0.9
+Entire Network,EIP,2022-23,2023,15,75-84 yr,Overall,Overall,245,1
+Entire Network,FluSurv-NET,2022-23,2023,15,75-84 yr,Overall,Overall,244.2,0.9
+Entire Network,FluSurv-NET,2022-23,2023,16,75-84 yr,Overall,Overall,245.3,1
+Entire Network,EIP,2022-23,2023,16,75-84 yr,Overall,Overall,245.7,0.8
+Entire Network,EIP,2022-23,2023,17,75-84 yr,Overall,Overall,246,0.3
+Entire Network,FluSurv-NET,2022-23,2023,17,75-84 yr,Overall,Overall,245.5,0.2
+Entire Network,FluSurv-NET,2022-23,2022,40,85+,Overall,Overall,1.4,1.4
+Entire Network,EIP,2022-23,2022,40,85+,Overall,Overall,1.6,1.6
+Entire Network,FluSurv-NET,2022-23,2022,41,85+,Overall,Overall,2.7,1.4
+Entire Network,EIP,2022-23,2022,41,85+,Overall,Overall,3.2,1.6
+Entire Network,EIP,2022-23,2022,42,85+,Overall,Overall,9.2,6.1
+Entire Network,FluSurv-NET,2022-23,2022,42,85+,Overall,Overall,8.6,5.8
+Entire Network,EIP,2022-23,2022,43,85+,Overall,Overall,16.2,7
+Entire Network,FluSurv-NET,2022-23,2022,43,85+,Overall,Overall,15.2,6.6
+Entire Network,EIP,2022-23,2022,44,85+,Overall,Overall,24.3,8.1
+Entire Network,FluSurv-NET,2022-23,2022,44,85+,Overall,Overall,22.8,7.6
+Entire Network,FluSurv-NET,2022-23,2022,45,85+,Overall,Overall,37,14.2
+Entire Network,EIP,2022-23,2022,45,85+,Overall,Overall,40.1,15.8
+Entire Network,EIP,2022-23,2022,46,85+,Overall,Overall,57.5,17.4
+Entire Network,FluSurv-NET,2022-23,2022,46,85+,Overall,Overall,54.6,17.5
+Entire Network,FluSurv-NET,2022-23,2022,47,85+,Overall,Overall,89.5,34.9
+Entire Network,EIP,2022-23,2022,47,85+,Overall,Overall,94.2,36.7
+Entire Network,EIP,2022-23,2022,48,85+,Overall,Overall,145.8,51.6
+Entire Network,FluSurv-NET,2022-23,2022,48,85+,Overall,Overall,138,48.5
+Entire Network,FluSurv-NET,2022-23,2022,49,85+,Overall,Overall,180.3,42.3
+Entire Network,EIP,2022-23,2022,49,85+,Overall,Overall,192,46.2
+Entire Network,EIP,2022-23,2022,50,85+,Overall,Overall,226.2,34.2
+Entire Network,FluSurv-NET,2022-23,2022,50,85+,Overall,Overall,215.2,34.9
+Entire Network,EIP,2022-23,2022,51,85+,Overall,Overall,256.6,30.4
+Entire Network,FluSurv-NET,2022-23,2022,51,85+,Overall,Overall,246.3,31.2
+Entire Network,EIP,2022-23,2022,52,85+,Overall,Overall,294.1,37.4
+Entire Network,FluSurv-NET,2022-23,2022,52,85+,Overall,Overall,284.5,38.2
+Entire Network,EIP,2022-23,2023,1,85+,Overall,Overall,317.7,23.7
+Entire Network,FluSurv-NET,2022-23,2023,1,85+,Overall,Overall,308.7,24.2
+Entire Network,FluSurv-NET,2022-23,2023,2,85+,Overall,Overall,316.3,7.6
+Entire Network,EIP,2022-23,2023,2,85+,Overall,Overall,324.9,7.2
+Entire Network,FluSurv-NET,2022-23,2023,3,85+,Overall,Overall,321.4,5.1
+Entire Network,EIP,2022-23,2023,3,85+,Overall,Overall,330.1,5.2
+Entire Network,EIP,2022-23,2023,4,85+,Overall,Overall,332.6,2.5
+Entire Network,FluSurv-NET,2022-23,2023,4,85+,Overall,Overall,324.5,3.1
+Entire Network,FluSurv-NET,2022-23,2023,5,85+,Overall,Overall,328,3.5
+Entire Network,EIP,2022-23,2023,5,85+,Overall,Overall,336.4,3.8
+Entire Network,EIP,2022-23,2023,6,85+,Overall,Overall,339.6,3.2
+Entire Network,FluSurv-NET,2022-23,2023,6,85+,Overall,Overall,331.3,3.3
+Entire Network,FluSurv-NET,2022-23,2023,7,85+,Overall,Overall,332.9,1.6
+Entire Network,EIP,2022-23,2023,7,85+,Overall,Overall,341.1,1.6
+Entire Network,FluSurv-NET,2022-23,2023,8,85+,Overall,Overall,333.8,1
+Entire Network,EIP,2022-23,2023,8,85+,Overall,Overall,342,0.9
+Entire Network,FluSurv-NET,2022-23,2023,9,85+,Overall,Overall,335,1.2
+Entire Network,EIP,2022-23,2023,9,85+,Overall,Overall,343.4,1.4
+Entire Network,EIP,2022-23,2023,10,85+,Overall,Overall,345.9,2.5
+Entire Network,FluSurv-NET,2022-23,2023,10,85+,Overall,Overall,337.3,2.3
+Entire Network,FluSurv-NET,2022-23,2023,11,85+,Overall,Overall,338.7,1.4
+Entire Network,EIP,2022-23,2023,11,85+,Overall,Overall,347.2,1.4
+Entire Network,EIP,2022-23,2023,12,85+,Overall,Overall,348.8,1.6
+Entire Network,FluSurv-NET,2022-23,2023,12,85+,Overall,Overall,340.1,1.4
+Entire Network,FluSurv-NET,2022-23,2023,13,85+,Overall,Overall,340.9,0.8
+Entire Network,EIP,2022-23,2023,13,85+,Overall,Overall,349.7,0.9
+Entire Network,EIP,2022-23,2023,14,85+,Overall,Overall,351.1,1.4
+Entire Network,FluSurv-NET,2022-23,2023,14,85+,Overall,Overall,342,1.2
+Entire Network,EIP,2022-23,2023,15,85+,Overall,Overall,351.7,0.7
+Entire Network,FluSurv-NET,2022-23,2023,15,85+,Overall,Overall,342.6,0.6
+Entire Network,FluSurv-NET,2022-23,2023,16,85+,Overall,Overall,343.8,1.2
+Entire Network,EIP,2022-23,2023,16,85+,Overall,Overall,353.1,1.4
+Entire Network,EIP,2022-23,2023,17,85+,Overall,Overall,354,0.9
+Entire Network,FluSurv-NET,2022-23,2023,17,85+,Overall,Overall,344.8,1
+Entire Network,FluSurv-NET,2022-23,2022,40,18-29 yr,Overall,Overall,0.2,0.2
+Entire Network,EIP,2022-23,2022,40,18-29 yr,Overall,Overall,0.2,0.2
+Entire Network,FluSurv-NET,2022-23,2022,41,18-29 yr,Overall,Overall,0.4,0.2
+Entire Network,EIP,2022-23,2022,41,18-29 yr,Overall,Overall,0.5,0.2
+Entire Network,EIP,2022-23,2022,42,18-29 yr,Overall,Overall,1.1,0.6
+Entire Network,FluSurv-NET,2022-23,2022,42,18-29 yr,Overall,Overall,0.9,0.5
+Entire Network,EIP,2022-23,2022,43,18-29 yr,Overall,Overall,2.1,1
+Entire Network,FluSurv-NET,2022-23,2022,43,18-29 yr,Overall,Overall,1.8,0.9
+Entire Network,EIP,2022-23,2022,44,18-29 yr,Overall,Overall,3.4,1.3
+Entire Network,FluSurv-NET,2022-23,2022,44,18-29 yr,Overall,Overall,3,1.2
+Entire Network,FluSurv-NET,2022-23,2022,45,18-29 yr,Overall,Overall,4.7,1.7
+Entire Network,EIP,2022-23,2022,45,18-29 yr,Overall,Overall,5.4,2
+Entire Network,FluSurv-NET,2022-23,2022,46,18-29 yr,Overall,Overall,6.3,1.6
+Entire Network,EIP,2022-23,2022,46,18-29 yr,Overall,Overall,7.2,1.7
+Entire Network,FluSurv-NET,2022-23,2022,47,18-29 yr,Overall,Overall,9.3,3
+Entire Network,EIP,2022-23,2022,47,18-29 yr,Overall,Overall,10.5,3.3
+Entire Network,EIP,2022-23,2022,48,18-29 yr,Overall,Overall,14.5,4
+Entire Network,FluSurv-NET,2022-23,2022,48,18-29 yr,Overall,Overall,13.1,3.8
+Entire Network,FluSurv-NET,2022-23,2022,49,18-29 yr,Overall,Overall,16.1,3
+Entire Network,EIP,2022-23,2022,49,18-29 yr,Overall,Overall,17.6,3
+Entire Network,EIP,2022-23,2022,50,18-29 yr,Overall,Overall,19.9,2.4
+Entire Network,FluSurv-NET,2022-23,2022,50,18-29 yr,Overall,Overall,18.4,2.3
+Entire Network,FluSurv-NET,2022-23,2022,51,18-29 yr,Overall,Overall,20.3,1.9
+Entire Network,EIP,2022-23,2022,51,18-29 yr,Overall,Overall,21.7,1.8
+Entire Network,EIP,2022-23,2022,52,18-29 yr,Overall,Overall,23,1.3
+Entire Network,FluSurv-NET,2022-23,2022,52,18-29 yr,Overall,Overall,21.5,1.2
+Entire Network,FluSurv-NET,2022-23,2023,1,18-29 yr,Overall,Overall,22.2,0.7
+Entire Network,EIP,2022-23,2023,1,18-29 yr,Overall,Overall,23.7,0.7
+Entire Network,FluSurv-NET,2022-23,2023,2,18-29 yr,Overall,Overall,22.7,0.4
+Entire Network,EIP,2022-23,2023,2,18-29 yr,Overall,Overall,24.2,0.5
+Entire Network,FluSurv-NET,2022-23,2023,3,18-29 yr,Overall,Overall,22.9,0.3
+Entire Network,EIP,2022-23,2023,3,18-29 yr,Overall,Overall,24.5,0.2
+Entire Network,EIP,2022-23,2023,4,18-29 yr,Overall,Overall,24.5,0.1
+Entire Network,FluSurv-NET,2022-23,2023,4,18-29 yr,Overall,Overall,23.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,5,18-29 yr,Overall,Overall,23.1,0.1
+Entire Network,EIP,2022-23,2023,5,18-29 yr,Overall,Overall,24.6,0.1
+Entire Network,EIP,2022-23,2023,6,18-29 yr,Overall,Overall,24.6,0
+Entire Network,FluSurv-NET,2022-23,2023,6,18-29 yr,Overall,Overall,23.2,0
+Entire Network,FluSurv-NET,2022-23,2023,7,18-29 yr,Overall,Overall,23.3,0.1
+Entire Network,EIP,2022-23,2023,7,18-29 yr,Overall,Overall,24.7,0
+Entire Network,FluSurv-NET,2022-23,2023,8,18-29 yr,Overall,Overall,23.4,0.1
+Entire Network,EIP,2022-23,2023,8,18-29 yr,Overall,Overall,24.8,0.1
+Entire Network,FluSurv-NET,2022-23,2023,9,18-29 yr,Overall,Overall,23.4,0
+Entire Network,EIP,2022-23,2023,9,18-29 yr,Overall,Overall,24.8,0
+Entire Network,FluSurv-NET,2022-23,2023,10,18-29 yr,Overall,Overall,23.5,0.1
+Entire Network,EIP,2022-23,2023,10,18-29 yr,Overall,Overall,24.9,0.1
+Entire Network,EIP,2022-23,2023,11,18-29 yr,Overall,Overall,25.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,11,18-29 yr,Overall,Overall,23.6,0.1
+Entire Network,FluSurv-NET,2022-23,2023,12,18-29 yr,Overall,Overall,23.7,0.1
+Entire Network,EIP,2022-23,2023,12,18-29 yr,Overall,Overall,25.1,0.1
+Entire Network,EIP,2022-23,2023,13,18-29 yr,Overall,Overall,25.3,0.1
+Entire Network,FluSurv-NET,2022-23,2023,13,18-29 yr,Overall,Overall,23.8,0.1
+Entire Network,EIP,2022-23,2023,14,18-29 yr,Overall,Overall,25.3,0
+Entire Network,FluSurv-NET,2022-23,2023,14,18-29 yr,Overall,Overall,23.9,0.1
+Entire Network,EIP,2022-23,2023,15,18-29 yr,Overall,Overall,25.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,15,18-29 yr,Overall,Overall,24,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,18-29 yr,Overall,Overall,24.1,0.1
+Entire Network,EIP,2022-23,2023,16,18-29 yr,Overall,Overall,25.6,0.1
+Entire Network,EIP,2022-23,2023,17,18-29 yr,Overall,Overall,25.7,0.1
+Entire Network,FluSurv-NET,2022-23,2023,17,18-29 yr,Overall,Overall,24.2,0.1
+Entire Network,FluSurv-NET,2022-23,2022,40,30-39 yr,Overall,Overall,0.1,0.1
+Entire Network,EIP,2022-23,2022,40,30-39 yr,Overall,Overall,0.1,0.1
+Entire Network,FluSurv-NET,2022-23,2022,41,30-39 yr,Overall,Overall,0.5,0.4
+Entire Network,EIP,2022-23,2022,41,30-39 yr,Overall,Overall,0.6,0.5
+Entire Network,EIP,2022-23,2022,42,30-39 yr,Overall,Overall,1.2,0.6
+Entire Network,FluSurv-NET,2022-23,2022,42,30-39 yr,Overall,Overall,1,0.5
+Entire Network,EIP,2022-23,2022,43,30-39 yr,Overall,Overall,2.1,0.9
+Entire Network,FluSurv-NET,2022-23,2022,43,30-39 yr,Overall,Overall,1.8,0.8
+Entire Network,EIP,2022-23,2022,44,30-39 yr,Overall,Overall,3.6,1.5
+Entire Network,FluSurv-NET,2022-23,2022,44,30-39 yr,Overall,Overall,3.2,1.4
+Entire Network,FluSurv-NET,2022-23,2022,45,30-39 yr,Overall,Overall,5,1.8
+Entire Network,EIP,2022-23,2022,45,30-39 yr,Overall,Overall,5.4,1.8
+Entire Network,EIP,2022-23,2022,46,30-39 yr,Overall,Overall,7.4,2
+Entire Network,FluSurv-NET,2022-23,2022,46,30-39 yr,Overall,Overall,6.9,2
+Entire Network,FluSurv-NET,2022-23,2022,47,30-39 yr,Overall,Overall,10.5,3.6
+Entire Network,EIP,2022-23,2022,47,30-39 yr,Overall,Overall,11.1,3.6
+Entire Network,EIP,2022-23,2022,48,30-39 yr,Overall,Overall,14.8,3.7
+Entire Network,FluSurv-NET,2022-23,2022,48,30-39 yr,Overall,Overall,14.3,3.8
+Entire Network,FluSurv-NET,2022-23,2022,49,30-39 yr,Overall,Overall,17.2,2.8
+Entire Network,EIP,2022-23,2022,49,30-39 yr,Overall,Overall,17.6,2.8
+Entire Network,EIP,2022-23,2022,50,30-39 yr,Overall,Overall,20.5,2.8
+Entire Network,FluSurv-NET,2022-23,2022,50,30-39 yr,Overall,Overall,20.1,3
+Entire Network,EIP,2022-23,2022,51,30-39 yr,Overall,Overall,22.6,2.1
+Entire Network,FluSurv-NET,2022-23,2022,51,30-39 yr,Overall,Overall,22.3,2.1
+Entire Network,EIP,2022-23,2022,52,30-39 yr,Overall,Overall,24.6,2
+Entire Network,FluSurv-NET,2022-23,2022,52,30-39 yr,Overall,Overall,24.2,1.9
+Entire Network,EIP,2022-23,2023,1,30-39 yr,Overall,Overall,25.8,1.3
+Entire Network,FluSurv-NET,2022-23,2023,1,30-39 yr,Overall,Overall,25.4,1.2
+Entire Network,FluSurv-NET,2022-23,2023,2,30-39 yr,Overall,Overall,25.8,0.4
+Entire Network,EIP,2022-23,2023,2,30-39 yr,Overall,Overall,26.2,0.4
+Entire Network,FluSurv-NET,2022-23,2023,3,30-39 yr,Overall,Overall,26.3,0.4
+Entire Network,EIP,2022-23,2023,3,30-39 yr,Overall,Overall,26.7,0.5
+Entire Network,EIP,2022-23,2023,4,30-39 yr,Overall,Overall,27,0.2
+Entire Network,FluSurv-NET,2022-23,2023,4,30-39 yr,Overall,Overall,26.5,0.3
+Entire Network,FluSurv-NET,2022-23,2023,5,30-39 yr,Overall,Overall,26.6,0.1
+Entire Network,EIP,2022-23,2023,5,30-39 yr,Overall,Overall,27.1,0.1
+Entire Network,EIP,2022-23,2023,6,30-39 yr,Overall,Overall,27.2,0.1
+Entire Network,FluSurv-NET,2022-23,2023,6,30-39 yr,Overall,Overall,26.8,0.1
+Entire Network,FluSurv-NET,2022-23,2023,7,30-39 yr,Overall,Overall,26.9,0.1
+Entire Network,EIP,2022-23,2023,7,30-39 yr,Overall,Overall,27.3,0.1
+Entire Network,FluSurv-NET,2022-23,2023,8,30-39 yr,Overall,Overall,27,0.1
+Entire Network,EIP,2022-23,2023,8,30-39 yr,Overall,Overall,27.4,0.1
+Entire Network,EIP,2022-23,2023,9,30-39 yr,Overall,Overall,27.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,30-39 yr,Overall,Overall,27.1,0.2
+Entire Network,FluSurv-NET,2022-23,2023,10,30-39 yr,Overall,Overall,27.2,0
+Entire Network,EIP,2022-23,2023,10,30-39 yr,Overall,Overall,27.6,0.1
+Entire Network,FluSurv-NET,2022-23,2023,11,30-39 yr,Overall,Overall,27.4,0.3
+Entire Network,EIP,2022-23,2023,11,30-39 yr,Overall,Overall,27.9,0.3
+Entire Network,FluSurv-NET,2022-23,2023,12,30-39 yr,Overall,Overall,27.7,0.3
+Entire Network,EIP,2022-23,2023,12,30-39 yr,Overall,Overall,28.2,0.3
+Entire Network,EIP,2022-23,2023,13,30-39 yr,Overall,Overall,28.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,13,30-39 yr,Overall,Overall,27.9,0.2
+Entire Network,EIP,2022-23,2023,14,30-39 yr,Overall,Overall,28.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,14,30-39 yr,Overall,Overall,28.1,0.1
+Entire Network,EIP,2022-23,2023,15,30-39 yr,Overall,Overall,28.8,0.2
+Entire Network,FluSurv-NET,2022-23,2023,15,30-39 yr,Overall,Overall,28.2,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,30-39 yr,Overall,Overall,28.4,0.2
+Entire Network,EIP,2022-23,2023,16,30-39 yr,Overall,Overall,29,0.2
+Entire Network,EIP,2022-23,2023,17,30-39 yr,Overall,Overall,29.2,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,30-39 yr,Overall,Overall,28.6,0.2
+Entire Network,FluSurv-NET,2022-23,2022,40,40-49 yr,Overall,Overall,0.2,0.2
+Entire Network,EIP,2022-23,2022,40,40-49 yr,Overall,Overall,0.2,0.2
+Entire Network,FluSurv-NET,2022-23,2022,41,40-49 yr,Overall,Overall,0.5,0.3
+Entire Network,EIP,2022-23,2022,41,40-49 yr,Overall,Overall,0.5,0.3
+Entire Network,EIP,2022-23,2022,42,40-49 yr,Overall,Overall,0.8,0.3
+Entire Network,FluSurv-NET,2022-23,2022,42,40-49 yr,Overall,Overall,0.8,0.3
+Entire Network,EIP,2022-23,2022,43,40-49 yr,Overall,Overall,1.9,1.1
+Entire Network,FluSurv-NET,2022-23,2022,43,40-49 yr,Overall,Overall,1.8,1
+Entire Network,EIP,2022-23,2022,44,40-49 yr,Overall,Overall,3.3,1.4
+Entire Network,FluSurv-NET,2022-23,2022,44,40-49 yr,Overall,Overall,3.1,1.3
+Entire Network,FluSurv-NET,2022-23,2022,45,40-49 yr,Overall,Overall,4.7,1.6
+Entire Network,EIP,2022-23,2022,45,40-49 yr,Overall,Overall,5,1.7
+Entire Network,FluSurv-NET,2022-23,2022,46,40-49 yr,Overall,Overall,6.7,2
+Entire Network,EIP,2022-23,2022,46,40-49 yr,Overall,Overall,7.2,2.2
+Entire Network,FluSurv-NET,2022-23,2022,47,40-49 yr,Overall,Overall,10.1,3.5
+Entire Network,EIP,2022-23,2022,47,40-49 yr,Overall,Overall,10.9,3.7
+Entire Network,FluSurv-NET,2022-23,2022,48,40-49 yr,Overall,Overall,13.6,3.5
+Entire Network,EIP,2022-23,2022,48,40-49 yr,Overall,Overall,14.3,3.4
+Entire Network,FluSurv-NET,2022-23,2022,49,40-49 yr,Overall,Overall,16.7,3
+Entire Network,EIP,2022-23,2022,49,40-49 yr,Overall,Overall,17.1,2.8
+Entire Network,FluSurv-NET,2022-23,2022,50,40-49 yr,Overall,Overall,19.6,3
+Entire Network,EIP,2022-23,2022,50,40-49 yr,Overall,Overall,19.8,2.7
+Entire Network,FluSurv-NET,2022-23,2022,51,40-49 yr,Overall,Overall,22.5,2.8
+Entire Network,EIP,2022-23,2022,51,40-49 yr,Overall,Overall,22.5,2.7
+Entire Network,EIP,2022-23,2022,52,40-49 yr,Overall,Overall,25,2.5
+Entire Network,FluSurv-NET,2022-23,2022,52,40-49 yr,Overall,Overall,24.9,2.4
+Entire Network,FluSurv-NET,2022-23,2023,1,40-49 yr,Overall,Overall,26.5,1.6
+Entire Network,EIP,2022-23,2023,1,40-49 yr,Overall,Overall,26.5,1.5
+Entire Network,FluSurv-NET,2022-23,2023,2,40-49 yr,Overall,Overall,27.2,0.7
+Entire Network,EIP,2022-23,2023,2,40-49 yr,Overall,Overall,27.3,0.8
+Entire Network,EIP,2022-23,2023,3,40-49 yr,Overall,Overall,27.9,0.7
+Entire Network,FluSurv-NET,2022-23,2023,3,40-49 yr,Overall,Overall,27.9,0.6
+Entire Network,EIP,2022-23,2023,4,40-49 yr,Overall,Overall,28,0.1
+Entire Network,FluSurv-NET,2022-23,2023,4,40-49 yr,Overall,Overall,28.1,0.2
+Entire Network,EIP,2022-23,2023,5,40-49 yr,Overall,Overall,28.4,0.3
+Entire Network,FluSurv-NET,2022-23,2023,5,40-49 yr,Overall,Overall,28.4,0.3
+Entire Network,EIP,2022-23,2023,6,40-49 yr,Overall,Overall,28.6,0.3
+Entire Network,FluSurv-NET,2022-23,2023,6,40-49 yr,Overall,Overall,28.7,0.3
+Entire Network,FluSurv-NET,2022-23,2023,7,40-49 yr,Overall,Overall,28.8,0.1
+Entire Network,EIP,2022-23,2023,7,40-49 yr,Overall,Overall,28.7,0.1
+Entire Network,FluSurv-NET,2022-23,2023,8,40-49 yr,Overall,Overall,28.8,0.1
+Entire Network,EIP,2022-23,2023,8,40-49 yr,Overall,Overall,28.8,0.1
+Entire Network,FluSurv-NET,2022-23,2023,9,40-49 yr,Overall,Overall,29,0.1
+Entire Network,EIP,2022-23,2023,9,40-49 yr,Overall,Overall,29,0.1
+Entire Network,FluSurv-NET,2022-23,2023,10,40-49 yr,Overall,Overall,29.1,0.1
+Entire Network,EIP,2022-23,2023,10,40-49 yr,Overall,Overall,29,0.1
+Entire Network,EIP,2022-23,2023,11,40-49 yr,Overall,Overall,29.2,0.1
+Entire Network,FluSurv-NET,2022-23,2023,11,40-49 yr,Overall,Overall,29.2,0.2
+Entire Network,FluSurv-NET,2022-23,2023,12,40-49 yr,Overall,Overall,29.3,0.1
+Entire Network,EIP,2022-23,2023,12,40-49 yr,Overall,Overall,29.3,0.1
+Entire Network,EIP,2022-23,2023,13,40-49 yr,Overall,Overall,29.4,0.2
+Entire Network,FluSurv-NET,2022-23,2023,13,40-49 yr,Overall,Overall,29.4,0.1
+Entire Network,FluSurv-NET,2022-23,2023,14,40-49 yr,Overall,Overall,29.6,0.1
+Entire Network,EIP,2022-23,2023,14,40-49 yr,Overall,Overall,29.5,0.1
+Entire Network,EIP,2022-23,2023,15,40-49 yr,Overall,Overall,29.6,0
+Entire Network,FluSurv-NET,2022-23,2023,15,40-49 yr,Overall,Overall,29.6,0
+Entire Network,EIP,2022-23,2023,16,40-49 yr,Overall,Overall,29.6,0
+Entire Network,FluSurv-NET,2022-23,2023,16,40-49 yr,Overall,Overall,29.6,0
+Entire Network,EIP,2022-23,2023,17,40-49 yr,Overall,Overall,29.7,0.1
+Entire Network,FluSurv-NET,2022-23,2023,17,40-49 yr,Overall,Overall,29.7,0.1
+Entire Network,FluSurv-NET,2022-23,2022,40,5-11  yr,Overall,Overall,0.5,0.5
+Entire Network,EIP,2022-23,2022,40,5-11  yr,Overall,Overall,0.5,0.5
+Entire Network,FluSurv-NET,2022-23,2022,41,5-11  yr,Overall,Overall,1,0.6
+Entire Network,EIP,2022-23,2022,41,5-11  yr,Overall,Overall,1.2,0.7
+Entire Network,FluSurv-NET,2022-23,2022,42,5-11  yr,Overall,Overall,2,1
+Entire Network,EIP,2022-23,2022,42,5-11  yr,Overall,Overall,2.3,1.1
+Entire Network,EIP,2022-23,2022,43,5-11  yr,Overall,Overall,4.2,1.9
+Entire Network,FluSurv-NET,2022-23,2022,43,5-11  yr,Overall,Overall,3.6,1.6
+Entire Network,EIP,2022-23,2022,44,5-11  yr,Overall,Overall,7.6,3.4
+Entire Network,FluSurv-NET,2022-23,2022,44,5-11  yr,Overall,Overall,6.6,3
+Entire Network,FluSurv-NET,2022-23,2022,45,5-11  yr,Overall,Overall,10.4,3.7
+Entire Network,EIP,2022-23,2022,45,5-11  yr,Overall,Overall,11.7,4.1
+Entire Network,EIP,2022-23,2022,46,5-11  yr,Overall,Overall,14.6,2.9
+Entire Network,FluSurv-NET,2022-23,2022,46,5-11  yr,Overall,Overall,13.1,2.7
+Entire Network,FluSurv-NET,2022-23,2022,47,5-11  yr,Overall,Overall,18,4.9
+Entire Network,EIP,2022-23,2022,47,5-11  yr,Overall,Overall,19.6,5
+Entire Network,FluSurv-NET,2022-23,2022,48,5-11  yr,Overall,Overall,22.1,4.1
+Entire Network,EIP,2022-23,2022,48,5-11  yr,Overall,Overall,23.7,4.1
+Entire Network,FluSurv-NET,2022-23,2022,49,5-11  yr,Overall,Overall,25.8,3.7
+Entire Network,EIP,2022-23,2022,49,5-11  yr,Overall,Overall,27.2,3.5
+Entire Network,EIP,2022-23,2022,50,5-11  yr,Overall,Overall,31.2,4
+Entire Network,FluSurv-NET,2022-23,2022,50,5-11  yr,Overall,Overall,29.9,4.1
+Entire Network,EIP,2022-23,2022,51,5-11  yr,Overall,Overall,33.8,2.6
+Entire Network,FluSurv-NET,2022-23,2022,51,5-11  yr,Overall,Overall,32.8,2.9
+Entire Network,EIP,2022-23,2022,52,5-11  yr,Overall,Overall,34.9,1.2
+Entire Network,FluSurv-NET,2022-23,2022,52,5-11  yr,Overall,Overall,34.4,1.5
+Entire Network,EIP,2022-23,2023,1,5-11  yr,Overall,Overall,35.4,0.4
+Entire Network,FluSurv-NET,2022-23,2023,1,5-11  yr,Overall,Overall,34.9,0.6
+Entire Network,FluSurv-NET,2022-23,2023,2,5-11  yr,Overall,Overall,35.4,0.5
+Entire Network,EIP,2022-23,2023,2,5-11  yr,Overall,Overall,35.8,0.4
+Entire Network,FluSurv-NET,2022-23,2023,3,5-11  yr,Overall,Overall,35.6,0.2
+Entire Network,EIP,2022-23,2023,3,5-11  yr,Overall,Overall,36,0.2
+Entire Network,EIP,2022-23,2023,4,5-11  yr,Overall,Overall,36.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,4,5-11  yr,Overall,Overall,35.7,0.1
+Entire Network,EIP,2022-23,2023,5,5-11  yr,Overall,Overall,36.3,0.2
+Entire Network,FluSurv-NET,2022-23,2023,5,5-11  yr,Overall,Overall,36,0.2
+Entire Network,EIP,2022-23,2023,6,5-11  yr,Overall,Overall,36.6,0.3
+Entire Network,FluSurv-NET,2022-23,2023,6,5-11  yr,Overall,Overall,36.2,0.2
+Entire Network,FluSurv-NET,2022-23,2023,7,5-11  yr,Overall,Overall,36.3,0.1
+Entire Network,EIP,2022-23,2023,7,5-11  yr,Overall,Overall,36.7,0
+Entire Network,FluSurv-NET,2022-23,2023,8,5-11  yr,Overall,Overall,36.5,0.2
+Entire Network,EIP,2022-23,2023,8,5-11  yr,Overall,Overall,36.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,5-11  yr,Overall,Overall,36.6,0.1
+Entire Network,EIP,2022-23,2023,9,5-11  yr,Overall,Overall,37,0.1
+Entire Network,FluSurv-NET,2022-23,2023,10,5-11  yr,Overall,Overall,36.9,0.2
+Entire Network,EIP,2022-23,2023,10,5-11  yr,Overall,Overall,37.2,0.2
+Entire Network,EIP,2022-23,2023,11,5-11  yr,Overall,Overall,37.4,0.2
+Entire Network,FluSurv-NET,2022-23,2023,11,5-11  yr,Overall,Overall,37.1,0.2
+Entire Network,FluSurv-NET,2022-23,2023,12,5-11  yr,Overall,Overall,37.3,0.3
+Entire Network,EIP,2022-23,2023,12,5-11  yr,Overall,Overall,37.6,0.3
+Entire Network,EIP,2022-23,2023,13,5-11  yr,Overall,Overall,37.9,0.3
+Entire Network,FluSurv-NET,2022-23,2023,13,5-11  yr,Overall,Overall,37.6,0.3
+Entire Network,EIP,2022-23,2023,14,5-11  yr,Overall,Overall,38.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,14,5-11  yr,Overall,Overall,37.9,0.3
+Entire Network,EIP,2022-23,2023,15,5-11  yr,Overall,Overall,38.4,0.1
+Entire Network,FluSurv-NET,2022-23,2023,15,5-11  yr,Overall,Overall,38,0.1
+Entire Network,FluSurv-NET,2022-23,2023,16,5-11  yr,Overall,Overall,38.2,0.2
+Entire Network,EIP,2022-23,2023,16,5-11  yr,Overall,Overall,38.5,0.1
+Entire Network,EIP,2022-23,2023,17,5-11  yr,Overall,Overall,38.8,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,5-11  yr,Overall,Overall,38.4,0.2
+Entire Network,FluSurv-NET,2022-23,2022,40,12-17 yr,Overall,Overall,0.5,0.5
+Entire Network,EIP,2022-23,2022,40,12-17 yr,Overall,Overall,0.5,0.5
+Entire Network,FluSurv-NET,2022-23,2022,41,12-17 yr,Overall,Overall,0.8,0.4
+Entire Network,EIP,2022-23,2022,41,12-17 yr,Overall,Overall,1,0.4
+Entire Network,EIP,2022-23,2022,42,12-17 yr,Overall,Overall,2.1,1.1
+Entire Network,FluSurv-NET,2022-23,2022,42,12-17 yr,Overall,Overall,1.8,1
+Entire Network,EIP,2022-23,2022,43,12-17 yr,Overall,Overall,3.2,1.1
+Entire Network,FluSurv-NET,2022-23,2022,43,12-17 yr,Overall,Overall,2.7,1
+Entire Network,EIP,2022-23,2022,44,12-17 yr,Overall,Overall,5.1,1.8
+Entire Network,FluSurv-NET,2022-23,2022,44,12-17 yr,Overall,Overall,4.4,1.6
+Entire Network,FluSurv-NET,2022-23,2022,45,12-17 yr,Overall,Overall,5.7,1.4
+Entire Network,EIP,2022-23,2022,45,12-17 yr,Overall,Overall,6.6,1.6
+Entire Network,FluSurv-NET,2022-23,2022,46,12-17 yr,Overall,Overall,8,2.2
+Entire Network,EIP,2022-23,2022,46,12-17 yr,Overall,Overall,9.2,2.6
+Entire Network,FluSurv-NET,2022-23,2022,47,12-17 yr,Overall,Overall,10.2,2.2
+Entire Network,EIP,2022-23,2022,47,12-17 yr,Overall,Overall,11.7,2.6
+Entire Network,FluSurv-NET,2022-23,2022,48,12-17 yr,Overall,Overall,12.3,2.1
+Entire Network,EIP,2022-23,2022,48,12-17 yr,Overall,Overall,14.1,2.3
+Entire Network,FluSurv-NET,2022-23,2022,49,12-17 yr,Overall,Overall,14.3,2
+Entire Network,EIP,2022-23,2022,49,12-17 yr,Overall,Overall,16.2,2.1
+Entire Network,FluSurv-NET,2022-23,2022,50,12-17 yr,Overall,Overall,16.2,2
+Entire Network,EIP,2022-23,2022,50,12-17 yr,Overall,Overall,18.3,2.1
+Entire Network,FluSurv-NET,2022-23,2022,51,12-17 yr,Overall,Overall,17.3,1.1
+Entire Network,EIP,2022-23,2022,51,12-17 yr,Overall,Overall,19.1,0.8
+Entire Network,EIP,2022-23,2022,52,12-17 yr,Overall,Overall,19.9,0.8
+Entire Network,FluSurv-NET,2022-23,2022,52,12-17 yr,Overall,Overall,18.3,1
+Entire Network,FluSurv-NET,2022-23,2023,1,12-17 yr,Overall,Overall,18.6,0.3
+Entire Network,EIP,2022-23,2023,1,12-17 yr,Overall,Overall,20.2,0.3
+Entire Network,FluSurv-NET,2022-23,2023,2,12-17 yr,Overall,Overall,18.7,0
+Entire Network,EIP,2022-23,2023,2,12-17 yr,Overall,Overall,20.2,0.1
+Entire Network,EIP,2022-23,2023,3,12-17 yr,Overall,Overall,20.2,0
+Entire Network,FluSurv-NET,2022-23,2023,3,12-17 yr,Overall,Overall,18.7,0.1
+Entire Network,EIP,2022-23,2023,4,12-17 yr,Overall,Overall,20.3,0.1
+Entire Network,FluSurv-NET,2022-23,2023,4,12-17 yr,Overall,Overall,18.8,0
+Entire Network,EIP,2022-23,2023,5,12-17 yr,Overall,Overall,20.3,0
+Entire Network,FluSurv-NET,2022-23,2023,5,12-17 yr,Overall,Overall,18.8,0
+Entire Network,EIP,2022-23,2023,6,12-17 yr,Overall,Overall,20.3,0.1
+Entire Network,FluSurv-NET,2022-23,2023,6,12-17 yr,Overall,Overall,18.8,0
+Entire Network,FluSurv-NET,2022-23,2023,7,12-17 yr,Overall,Overall,18.9,0
+Entire Network,EIP,2022-23,2023,7,12-17 yr,Overall,Overall,20.4,0.1
+Entire Network,FluSurv-NET,2022-23,2023,8,12-17 yr,Overall,Overall,19.1,0.2
+Entire Network,EIP,2022-23,2023,8,12-17 yr,Overall,Overall,20.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,12-17 yr,Overall,Overall,19.1,0
+Entire Network,EIP,2022-23,2023,9,12-17 yr,Overall,Overall,20.6,0
+Entire Network,FluSurv-NET,2022-23,2023,10,12-17 yr,Overall,Overall,19.2,0.1
+Entire Network,EIP,2022-23,2023,10,12-17 yr,Overall,Overall,20.7,0.1
+Entire Network,EIP,2022-23,2023,11,12-17 yr,Overall,Overall,20.8,0.1
+Entire Network,FluSurv-NET,2022-23,2023,11,12-17 yr,Overall,Overall,19.2,0
+Entire Network,FluSurv-NET,2022-23,2023,12,12-17 yr,Overall,Overall,19.4,0.1
+Entire Network,EIP,2022-23,2023,12,12-17 yr,Overall,Overall,20.9,0.1
+Entire Network,EIP,2022-23,2023,13,12-17 yr,Overall,Overall,20.9,0.1
+Entire Network,FluSurv-NET,2022-23,2023,13,12-17 yr,Overall,Overall,19.5,0.1
+Entire Network,FluSurv-NET,2022-23,2023,14,12-17 yr,Overall,Overall,19.6,0.1
+Entire Network,EIP,2022-23,2023,14,12-17 yr,Overall,Overall,21,0.1
+Entire Network,EIP,2022-23,2023,15,12-17 yr,Overall,Overall,21,0
+Entire Network,FluSurv-NET,2022-23,2023,15,12-17 yr,Overall,Overall,19.6,0
+Entire Network,EIP,2022-23,2023,16,12-17 yr,Overall,Overall,21,0.1
+Entire Network,FluSurv-NET,2022-23,2023,16,12-17 yr,Overall,Overall,19.6,0
+Entire Network,EIP,2022-23,2023,17,12-17 yr,Overall,Overall,21.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,17,12-17 yr,Overall,Overall,19.7,0.1
+Entire Network,EIP,2022-23,2022,40,< 18,Overall,Overall,0.7,0.7
+Entire Network,FluSurv-NET,2022-23,2022,40,< 18,Overall,Overall,0.6,0.6
+Entire Network,EIP,2022-23,2022,41,< 18,Overall,Overall,1.3,0.7
+Entire Network,FluSurv-NET,2022-23,2022,41,< 18,Overall,Overall,1.1,0.5
+Entire Network,EIP,2022-23,2022,42,< 18,Overall,Overall,2.7,1.3
+Entire Network,FluSurv-NET,2022-23,2022,42,< 18,Overall,Overall,2.3,1.2
+Entire Network,EIP,2022-23,2022,43,< 18,Overall,Overall,4.7,2
+Entire Network,FluSurv-NET,2022-23,2022,43,< 18,Overall,Overall,4.1,1.7
+Entire Network,FluSurv-NET,2022-23,2022,44,< 18,Overall,Overall,6.8,2.7
+Entire Network,EIP,2022-23,2022,44,< 18,Overall,Overall,7.8,3.1
+Entire Network,FluSurv-NET,2022-23,2022,45,< 18,Overall,Overall,10.2,3.4
+Entire Network,EIP,2022-23,2022,45,< 18,Overall,Overall,11.6,3.8
+Entire Network,EIP,2022-23,2022,46,< 18,Overall,Overall,15.6,4
+Entire Network,FluSurv-NET,2022-23,2022,46,< 18,Overall,Overall,13.8,3.6
+Entire Network,FluSurv-NET,2022-23,2022,47,< 18,Overall,Overall,19.5,5.7
+Entire Network,EIP,2022-23,2022,47,< 18,Overall,Overall,21.7,6.1
+Entire Network,EIP,2022-23,2022,48,< 18,Overall,Overall,27.3,5.6
+Entire Network,FluSurv-NET,2022-23,2022,48,< 18,Overall,Overall,24.7,5.3
+Entire Network,FluSurv-NET,2022-23,2022,49,< 18,Overall,Overall,29.2,4.5
+Entire Network,EIP,2022-23,2022,49,< 18,Overall,Overall,31.8,4.5
+Entire Network,FluSurv-NET,2022-23,2022,50,< 18,Overall,Overall,33.7,4.5
+Entire Network,EIP,2022-23,2022,50,< 18,Overall,Overall,36.3,4.5
+Entire Network,EIP,2022-23,2022,51,< 18,Overall,Overall,39.2,3
+Entire Network,FluSurv-NET,2022-23,2022,51,< 18,Overall,Overall,36.9,3.2
+Entire Network,FluSurv-NET,2022-23,2022,52,< 18,Overall,Overall,39.2,2.3
+Entire Network,EIP,2022-23,2022,52,< 18,Overall,Overall,41.2,2
+Entire Network,EIP,2022-23,2023,1,< 18,Overall,Overall,41.9,0.7
+Entire Network,FluSurv-NET,2022-23,2023,1,< 18,Overall,Overall,40.1,0.9
+Entire Network,FluSurv-NET,2022-23,2023,2,< 18,Overall,Overall,40.6,0.5
+Entire Network,EIP,2022-23,2023,2,< 18,Overall,Overall,42.4,0.5
+Entire Network,EIP,2022-23,2023,3,< 18,Overall,Overall,42.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,3,< 18,Overall,Overall,40.9,0.3
+Entire Network,EIP,2022-23,2023,4,< 18,Overall,Overall,42.7,0.1
+Entire Network,FluSurv-NET,2022-23,2023,4,< 18,Overall,Overall,41,0.1
+Entire Network,FluSurv-NET,2022-23,2023,5,< 18,Overall,Overall,41.2,0.2
+Entire Network,EIP,2022-23,2023,5,< 18,Overall,Overall,42.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,6,< 18,Overall,Overall,41.4,0.2
+Entire Network,EIP,2022-23,2023,6,< 18,Overall,Overall,43.1,0.2
+Entire Network,EIP,2022-23,2023,7,< 18,Overall,Overall,43.2,0.1
+Entire Network,FluSurv-NET,2022-23,2023,7,< 18,Overall,Overall,41.5,0.1
+Entire Network,EIP,2022-23,2023,8,< 18,Overall,Overall,43.4,0.2
+Entire Network,FluSurv-NET,2022-23,2023,8,< 18,Overall,Overall,41.7,0.2
+Entire Network,EIP,2022-23,2023,9,< 18,Overall,Overall,43.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,9,< 18,Overall,Overall,41.8,0.1
+Entire Network,EIP,2022-23,2023,10,< 18,Overall,Overall,43.7,0.2
+Entire Network,FluSurv-NET,2022-23,2023,10,< 18,Overall,Overall,42,0.2
+Entire Network,FluSurv-NET,2022-23,2023,11,< 18,Overall,Overall,42.2,0.2
+Entire Network,EIP,2022-23,2023,11,< 18,Overall,Overall,43.9,0.2
+Entire Network,FluSurv-NET,2022-23,2023,12,< 18,Overall,Overall,42.4,0.2
+Entire Network,EIP,2022-23,2023,12,< 18,Overall,Overall,44.1,0.2
+Entire Network,EIP,2022-23,2023,13,< 18,Overall,Overall,44.3,0.2
+Entire Network,FluSurv-NET,2022-23,2023,13,< 18,Overall,Overall,42.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,14,< 18,Overall,Overall,42.8,0.2
+Entire Network,EIP,2022-23,2023,14,< 18,Overall,Overall,44.4,0.2
+Entire Network,EIP,2022-23,2023,15,< 18,Overall,Overall,44.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,15,< 18,Overall,Overall,42.9,0.1
+Entire Network,EIP,2022-23,2023,16,< 18,Overall,Overall,44.8,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,< 18,Overall,Overall,43.1,0.1
+Entire Network,FluSurv-NET,2022-23,2023,17,< 18,Overall,Overall,43.2,0.2
+Entire Network,EIP,2022-23,2023,17,< 18,Overall,Overall,44.9,0.2
+Entire Network,FluSurv-NET,2022-23,2022,40,>= 18,Overall,Overall,0.4,0.4
+Entire Network,EIP,2022-23,2022,40,>= 18,Overall,Overall,0.4,0.4
+Entire Network,FluSurv-NET,2022-23,2022,41,>= 18,Overall,Overall,0.9,0.6
+Entire Network,EIP,2022-23,2022,41,>= 18,Overall,Overall,1.1,0.6
+Entire Network,FluSurv-NET,2022-23,2022,42,>= 18,Overall,Overall,1.8,0.9
+Entire Network,EIP,2022-23,2022,42,>= 18,Overall,Overall,2,1
+Entire Network,EIP,2022-23,2022,43,>= 18,Overall,Overall,4,1.9
+Entire Network,FluSurv-NET,2022-23,2022,43,>= 18,Overall,Overall,3.6,1.8
+Entire Network,FluSurv-NET,2022-23,2022,44,>= 18,Overall,Overall,6,2.4
+Entire Network,EIP,2022-23,2022,44,>= 18,Overall,Overall,6.6,2.6
+Entire Network,EIP,2022-23,2022,45,>= 18,Overall,Overall,10.1,3.5
+Entire Network,FluSurv-NET,2022-23,2022,45,>= 18,Overall,Overall,9.2,3.2
+Entire Network,FluSurv-NET,2022-23,2022,46,>= 18,Overall,Overall,13.2,4
+Entire Network,EIP,2022-23,2022,46,>= 18,Overall,Overall,14.3,4.2
+Entire Network,FluSurv-NET,2022-23,2022,47,>= 18,Overall,Overall,20.6,7.3
+Entire Network,EIP,2022-23,2022,47,>= 18,Overall,Overall,22,7.7
+Entire Network,EIP,2022-23,2022,48,>= 18,Overall,Overall,31.9,9.9
+Entire Network,FluSurv-NET,2022-23,2022,48,>= 18,Overall,Overall,30.2,9.7
+Entire Network,EIP,2022-23,2022,49,>= 18,Overall,Overall,40.2,8.3
+Entire Network,FluSurv-NET,2022-23,2022,49,>= 18,Overall,Overall,38.3,8.1
+Entire Network,EIP,2022-23,2022,50,>= 18,Overall,Overall,46.9,6.7
+Entire Network,FluSurv-NET,2022-23,2022,50,>= 18,Overall,Overall,45.3,6.9
+Entire Network,EIP,2022-23,2022,51,>= 18,Overall,Overall,52.8,5.9
+Entire Network,FluSurv-NET,2022-23,2022,51,>= 18,Overall,Overall,51.5,6.3
+Entire Network,FluSurv-NET,2022-23,2022,52,>= 18,Overall,Overall,57.5,6
+Entire Network,EIP,2022-23,2022,52,>= 18,Overall,Overall,58.6,5.8
+Entire Network,EIP,2022-23,2023,1,>= 18,Overall,Overall,62,3.4
+Entire Network,FluSurv-NET,2022-23,2023,1,>= 18,Overall,Overall,61.1,3.6
+Entire Network,EIP,2022-23,2023,2,>= 18,Overall,Overall,63.5,1.5
+Entire Network,FluSurv-NET,2022-23,2023,2,>= 18,Overall,Overall,62.6,1.5
+Entire Network,FluSurv-NET,2022-23,2023,3,>= 18,Overall,Overall,63.5,0.9
+Entire Network,EIP,2022-23,2023,3,>= 18,Overall,Overall,64.4,0.9
+Entire Network,EIP,2022-23,2023,4,>= 18,Overall,Overall,64.9,0.5
+Entire Network,FluSurv-NET,2022-23,2023,4,>= 18,Overall,Overall,64.1,0.6
+Entire Network,FluSurv-NET,2022-23,2023,5,>= 18,Overall,Overall,64.6,0.5
+Entire Network,EIP,2022-23,2023,5,>= 18,Overall,Overall,65.4,0.5
+Entire Network,FluSurv-NET,2022-23,2023,6,>= 18,Overall,Overall,65,0.4
+Entire Network,EIP,2022-23,2023,6,>= 18,Overall,Overall,65.8,0.4
+Entire Network,EIP,2022-23,2023,7,>= 18,Overall,Overall,66.2,0.4
+Entire Network,FluSurv-NET,2022-23,2023,7,>= 18,Overall,Overall,65.4,0.4
+Entire Network,FluSurv-NET,2022-23,2023,8,>= 18,Overall,Overall,65.7,0.3
+Entire Network,EIP,2022-23,2023,8,>= 18,Overall,Overall,66.5,0.3
+Entire Network,EIP,2022-23,2023,9,>= 18,Overall,Overall,66.7,0.3
+Entire Network,FluSurv-NET,2022-23,2023,9,>= 18,Overall,Overall,65.9,0.3
+Entire Network,FluSurv-NET,2022-23,2023,10,>= 18,Overall,Overall,66.2,0.3
+Entire Network,EIP,2022-23,2023,10,>= 18,Overall,Overall,67,0.3
+Entire Network,FluSurv-NET,2022-23,2023,11,>= 18,Overall,Overall,66.5,0.3
+Entire Network,EIP,2022-23,2023,11,>= 18,Overall,Overall,67.3,0.3
+Entire Network,EIP,2022-23,2023,12,>= 18,Overall,Overall,67.6,0.3
+Entire Network,FluSurv-NET,2022-23,2023,12,>= 18,Overall,Overall,66.8,0.3
+Entire Network,FluSurv-NET,2022-23,2023,13,>= 18,Overall,Overall,67,0.3
+Entire Network,EIP,2022-23,2023,13,>= 18,Overall,Overall,67.9,0.3
+Entire Network,EIP,2022-23,2023,14,>= 18,Overall,Overall,68.1,0.3
+Entire Network,FluSurv-NET,2022-23,2023,14,>= 18,Overall,Overall,67.3,0.3
+Entire Network,EIP,2022-23,2023,15,>= 18,Overall,Overall,68.4,0.3
+Entire Network,FluSurv-NET,2022-23,2023,15,>= 18,Overall,Overall,67.5,0.2
+Entire Network,FluSurv-NET,2022-23,2023,16,>= 18,Overall,Overall,67.8,0.2
+Entire Network,EIP,2022-23,2023,16,>= 18,Overall,Overall,68.6,0.2
+Entire Network,FluSurv-NET,2022-23,2023,17,>= 18,Overall,Overall,67.9,0.2
+Entire Network,EIP,2022-23,2023,17,>= 18,Overall,Overall,68.8,0.2
+
+Disclaimer:
+The Influenza Hospitalization Surveillance Network (FluSurv-NET) data are preliminary and subject
+"to change as more data become available. In particular, case counts and rates for recent hospital"
+"admissions are subject to reporting delays. As data are received each week, prior case counts and"
+rates are updated accordingly. FluSurv-NET conducts population-based surveillance for
+laboratory-confirmed influenza-associated hospitalizations in children <18 years of age and adults.
+"The FluSurv-NET catchment area includes selected counties in California, Colorado, Connecticut,"
+"Georgia, Maryland, Michigan, Minnesota, New Mexico, New York, Ohio, Oregon, Tennessee, and Utah."
+"Additional counties in Idaho (2010 to 2011), Iowa (2012 to 2013, 2020-2022), Oklahoma (2010 to"
+"2011), and Rhode Island (2010 to 2013) have also contributed to the network. Incidence rates (per"
+"100,000 population) are calculated using the National Center for Health Statistics' (NCHS) vintage"
+bridged-race postcensal population estimates for the counties included in the surveillance
+catchment area. The rates provided are likely to be underestimated as influenza-associated
+hospitalizations might be missed due to test availability and provider or facility testing
+"practices. In all influenza seasons except 2009-10 and 2021-22, rates reflect cases hospitalized"
+during October 1 - April 30 of each influenza season. Cases hospitalized during MMWR Week 39 are
+"included in the totals for MMWR Week 40, while cases hospitalized during MMWR Week 18 are included"
+"in the totals for MMWR Week 17. In 2009-10, rates reflect cases hospitalized during Sept 1 2009"
+"through April 30 2010 (MMWR Week 35 - MMWR Week 17). In 2021-22, rates reflect cases hospitalized"
+"beginning October 1 2021 (MMWR Week 39), but given late influenza season activity, the season was"
+"extended to June 11, 2022 (MMWR Week 23)."
