@@ -14,7 +14,7 @@
 
 ## Overview
 
-This is the public repository for *A framework for classifying disease trends applied to influenza-associated hospital admissions in the United States* currently in preprint at [medRxiv](medrxiv.org) [Classifying influenza disease trends](https://medrxiv.org/cgi/content/short/2025.04.11.25324947v1) 
+This is the public repository for *A framework for classifying disease trends applied to influenza-associated hospital admissions in the United States* currently in preprint at [medRxiv](medrxiv.org): [Classifying influenza disease trends](https://medrxiv.org/cgi/content/short/2025.04.11.25324947v1) 
 
 *data* contains the datasets downloaded from [FluView Interactive](https://gis.cdc.gov/GRASP/Fluview/FluHospRates.html) 
 *code* contains the necessary code to replicate the analysis from the manuscript identified above. 
