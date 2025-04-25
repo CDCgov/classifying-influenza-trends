@@ -11,6 +11,8 @@ categories <- factor(c("large_decrease", "decrease", "stable", "increase", "larg
 nice_categories <- c("Large decrease", "Decrease", "Stable", "Increase", "Large increase")
 
 # this function is to add a dummy guide to the plot below since the colors are not tied to data in the dataframe
+# from this stackoverflow question: https://stackoverflow.com/questions/70977700/creating-completely-customized-legends-in-ggplot2 
+# by teunbrand on Feb 3, 2022
 dummy_guide <- function(
     labels = NULL,  
     ..., 
@@ -238,8 +240,8 @@ defined_categories <- mandatory_reporting %>% arrange(date) %>%
                names_prefix = "rate_diff", 
                values_to = "rate_diff", names_transform = list(horizon = as.integer)) %>% 
   mutate(category = case_when(abs(count_change0) < 10 | horizon == 0 & rate_diff < 0.3 & rate_diff > -0.3 ~ "stable",
-                              horizon == 0 & rate_diff > 1.7 ~ "large_increase", 
-                              horizon == 0 & rate_diff < -1.7 ~ "large_decrease", 
+                              horizon == 0 & rate_diff >= 1.7 ~ "large_increase", 
+                              horizon == 0 & rate_diff <= -1.7 ~ "large_decrease", 
                               horizon == 0 & rate_diff >= 0.3 ~ "increase", 
                               horizon == 0 & rate_diff <= -0.3 ~ "decrease")) 
 
