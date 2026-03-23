@@ -1,6 +1,14 @@
 # Code repository for A framework for classifying disease trends applied to influenza-associated hospital admissions in the United States
 
+### Summary Information
 
+| Field               | Info                                  |
+| :------------------ | :------------------------------------ |
+| Author              | [Sarabeth Mathis](mailto:smathis2@cdc.gov)   |
+| Organizational Unit | NCIRD/Influenza division              |
+| Governance status   | Under review                          |
+| Docs last updated   | 2026-03                               |
+| License             | Apache                                |
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/cdc/#cdc_about_cio_mission-our-mission).  GitHub is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software. CDC use of GitHub does not imply an endorsement of any one particular service, product, or enterprise. 
 
@@ -9,22 +17,20 @@
 
 
 * [Disclaimer](DISCLAIMER.md)
-* [Contribution Notice](CONTRIBUTING.md)
+* [Contribution Notice](CONTRIBUTORS.md)
 
 
 ## Overview
 
-This is the public repository for *A framework for classifying disease trends applied to influenza-associated hospital admissions in the United States* currently in preprint at [medRxiv](medrxiv.org): [Classifying influenza disease trends](https://medrxiv.org/cgi/content/short/2025.04.11.25324947v1) 
+This is the public repository that contains the code to reproduce the results for *A framework for classifying disease trends applied to influenza-associated hospital admissions in the United States* by [Mathis et al. 2025](https://doi.org/10.1093/ofid/ofaf460)
 
-*data* contains the datasets downloaded from [FluView Interactive](https://gis.cdc.gov/GRASP/Fluview/FluHospRates.html) 
-*code* contains the necessary code to replicate the analysis from the manuscript identified above. 
-*output* contains any figures or tables generated in the code 
+*data* contains the datasets downloaded from [FluView Interactive](https://gis.cdc.gov/GRASP/Fluview/FluHospRates.html) <br>
+*code* contains the necessary code to replicate the analysis from the manuscript identified above. <br>
+*output* contains any figures or tables generated in the code <br>
 
-### Project Contact: 
-Sarabeth Mathis <br>
-NCIRD/Influenza Division <br>
-[smathis2@cdc.gov](mailto:smathis2@cdc.gov)
-  
+
+
+
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
 subject to domestic copyright protection under 17 USC § 105. This repository is in
