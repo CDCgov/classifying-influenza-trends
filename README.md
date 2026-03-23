@@ -23,7 +23,9 @@ This is the public repository for *A framework for classifying disease trends ap
 Project Contact: 
 
 Sarabeth Mathis 
+
 NCIRD/Influenza Division 
+
 [smathis2@cdc.gov](mailto:nqr2@cdc.gov)
   
 ## Public Domain Standard Notice
