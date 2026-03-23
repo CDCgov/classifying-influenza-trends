@@ -19,6 +19,12 @@ This is the public repository for *A framework for classifying disease trends ap
 *data* contains the datasets downloaded from [FluView Interactive](https://gis.cdc.gov/GRASP/Fluview/FluHospRates.html) 
 *code* contains the necessary code to replicate the analysis from the manuscript identified above. 
 *output* contains any figures or tables generated in the code 
+
+Project Contact: 
+
+Sarabeth Mathis 
+NCIRD/Influenza Division 
+[smathis2@cdc.gov](mailto:nqr2@cdc.gov)
   
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
