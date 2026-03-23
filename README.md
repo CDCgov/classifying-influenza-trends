@@ -6,7 +6,7 @@
 | :------------------ | :------------------------------------ |
 | Author              | [Sarabeth Mathis](mailto:smathis2@cdc.gov)   |
 | Organizational Unit | NCIRD/Influenza division              |
-| Governance status   | **Under review**                          |
+| Governance status   | Cleared                         |
 | Docs last updated   | 2026-03                               |
 | License             | Apache                                |
 
